@@ -20,19 +20,9 @@
     <script type="text/javascript" src="js/tribal.js"></script>
     <script type="text/javascript" src="js/tribal-shared.js"></script>
     <script type="text/javascript" src="js/tribal-timetable.js"></script>
-    <title>jQuery Timetable</title>
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-21875603-1']);
-        _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
-        _gaq.push(['_trackPageview']);
-        _gaq.push(['_trackPageLoadTime']);
-        (function () {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
+    <script type='text/javascript' src='js/sheetrock.min.js'></script>
+    <title>Horarios de Clase</title>
+    
 </head>
 <body data-offset="50">
     <div class="navbar navbar-fixed-top">
@@ -56,7 +46,7 @@
         <header class="jumbotron subhead" id="overview"> 
 			<h1>Horarios de Clase Semestre   Ago 2015 - Feb 2016</h1>
 		</header>
-        <p>View the <a target="_blank" href="http://www.triballabs.net/2012/09/jquery-html-timetable-layout/">blog post</a> supporting this sample code.</p>
+        <p>Dudas sobre la Programación enviarlas a emoron@gmail.com</p>
         <div class="timetable" data-days="5" data-hours="11">
             <ul class="tt-events">
                 <li class="tt-event btn-success" data-id="10" data-day="0" data-start="0" data-duration="1.5">
@@ -171,5 +161,65 @@
         </div>
            
     </div>
+
+
+<table id="cursos" class="table table-condensed table-striped"></table>
+
+<div id="results"></div> 
+
+<script type="text/javascript">
+
+// Sheetrock.js 1.0 Example 1
+// https://chriszarate.github.io/sheetrock/
+
+// The most basic use case of Sheetrock simply fetches the an 
+// entire worksheet and loads it into a <table>.
+
+// Define spreadsheet URL.
+var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1FTpFJHk-65yMoc57YdWKQKzMTHU3T9J0Xo8XTS01MdE/edit#gid=196482103';
+
+// Load an entire worksheet.
+//$('#cursos').sheetrock({
+//  url: mySpreadsheet,
+//  query: "select A,B,C,D,E order by A asc",
+//  fetchSize: 50
+
+//});
+
+</script>
+
+
+<script>
+ var spreadsheetID = "1FTpFJHk-65yMoc57YdWKQKzMTHU3T9J0Xo8XTS01MdE";
+ 
+
+//<li class="tt-event btn-info" data-id="30" data-day="2" data-start="0" data-duration="8">Open day</li>
+
+ // Make sure it is public or set to Anyone with link can view 
+ var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
+ 
+
+ $.getJSON(url, function(data) {
+ 
+  var entry = data.feed.entry;
+ 
+  $(entry).each(function(){
+      
+      var html = '<h2>'+this.gsx$materia.$t+'</h2><p>'+this.gsx$profesor.$t+'</p>'+
+     this.gsx$horas.$t;
+      
+      var html2 = '<li class="tt-event btn-info" data-id="30" '
+                  'data-day="'+2+'" data-start="0" data-duration="8">'
+                  +this.gsx$materia.$t+'</h2><p>'+this.gsx$profesor.$t+'</li>';
+    // Column names are name, age, etc.
+    $('#results').prepend(html);
+  });
+ 
+ });
+
+
+</script>
+
+
 </body>
 </html>
