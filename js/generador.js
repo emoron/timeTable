@@ -837,7 +837,7 @@ var data =[
         "profesor": "UMBERTO COTTI",
         "dia": "JUEVES",
         "salon": 9,
-        "hora": 13,
+        "hora": 14,
         "duracion": 2
     },
     {
@@ -885,7 +885,7 @@ var data =[
         "profesor": "UMBERTO COTTI",
         "dia": "MARTES",
         "salon": 9,
-        "hora": 13,
+        "hora": 14,
         "duracion": 2
     },
     {
