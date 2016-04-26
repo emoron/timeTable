@@ -1392,7 +1392,7 @@ function llenarEvento(data){
   }
 }
 
-$.getScript('js/cursos.js');
+$.getScript('data/cursos.js');
 
  var spreadsheetID = "1baJ8pb-QfC5jxXriWIUP0eFBak4F3eWz6kPCh3srwNI";
 
