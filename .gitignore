@@ -1,4 +1,4 @@
 
 *.codekit
-
-page.html
+node_modules/
+build/*.html
