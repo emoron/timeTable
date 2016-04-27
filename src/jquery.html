@@ -1,0 +1,51 @@
+<h1><span class="label label-default">Salones</span></h1>
+
+
+<div id="salon1" class="span12"> </div>
+<div id="salon2" class="span12"> </div>
+<div id="salon3" class="span12"> </div>
+<div id="salon4" class="span12"> </div>
+<div id="salon5" class="span12"> </div>
+<div id="salon6" class="span12"> </div>
+<div id="salon7" class="span12"> </div>
+<div id="salon8" class="span12"> </div>
+<div id="salon9" class="span12"> </div>
+<div id="salon10" class="span12"> </div>
+<div id="salon11" class="span12"> </div>
+<div id="salon12" class="span12"> </div>
+<div id="salon13" class="span12"> </div>
+<div id="salon14" class="span12"  > </div>
+<h1 class="span12">Laboratorios</h1>
+<div id="salon14" class="span12"  > </div>
+<div id="salon15" class="span12"> </div>
+<div id="salon16" class="span12"> </div>
+<div id="salon17" class="span12"> </div>
+<div id="salon18" class="span12"> </div>
+<div id="salon19" class="span12"> </div>
+<!-- Cambio -->
+<script src="js/generador.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+//$(document).on('pagebeforechange',[id="salon1"], function(){
+
+for(var i = 1; i < 14; i++){
+$('<h1>salon'+i+'</h1>').prependTo('#salon'+i);
+}
+
+for(var i = 1; i < 14; i++){
+  $('#salon'+ i).append(insertaTabla(i));
+}
+
+
+
+//for(var i = 1; i < 14; i++){
+//$('#salon'+ i).append(insertaTabla(i));
+//  console.log(insertaTabla(i));
+//}
+//  $.getJSON(nuevo,llenarEvento);
+
+
+//    });
+
+</script>
