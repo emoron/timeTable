@@ -1,6 +1,5 @@
 function insertaTabla(valor){
 tablaNum = valor;
-var html = "";
 var tabla = [
 '<div id="tabla0'+tablaNum+ '"  class="timetable" data-days="5" data-hours="13">',
 '               <ul class="tt-events">',
@@ -1329,44 +1328,11 @@ var data =[
     }
 ];
 
-function llegadaDatos(valores){
-  var entry = valores.feed.entry;
-  console.log(url);
-  var html2="";
-
-  $(entry).each(function(index,valor){
-
-     var semana1 = {LUNES : 0, MARTES:1,MIERCOLES:2,JUEVES:3,VIERNES:4};
-     var hora1 = {"7" : 0, "8":1,"9":2,"10":3,"11":4,"12":5,"13":6,"14":7,"15":8,"16":9,"17":10,"18":11,"19":12};
-        var materia2 = valor.gsx$materia.$t;
-        var profesor2 = valor.gsx$profesor.$t;
-        var dia2 = valor.gsx$dia.$t;
-        var salon2 = valor.gsx$salon.$t;
-        var hora2 = valor.gsx$hora.$t;
-        var duracion2 = valor.gsx$_ckd7g.$t;
-
-        var num = 1 + index;
-        var curso = materia2 + "</br>" + profesor2;
-         var evento2 = '<li class="tt-event btn-info" data-id="'+num+'" data-day="' + semana1[dia2] +'" data-start="' + hora1[hora2] +
-                     '" data-duration="'+duracion2+'">'+ curso +'</li>';
-
-
-         html2 += evento2;
-         var cadena = '#salon'+salon2 + ' .tt-events';
-
-    //    console.log(evento2);
-         $(cadena).append(evento2);
-});
-
-}
 
 function llenarEvento(data){
 
   var semana = {LUNES : 0, MARTES:1,MIERCOLES:2,JUEVES:3,VIERNES:4};
   var horas = {"7" : 0, "8":1,"9":2,"10":3,"11":4,"12":5,"13":6,"14":7,"15":8,"16":9,"17":10,"18":11,"19":12};
-
-
-
 
   for(var i = 0; i < data.length; i++){
     var  row = data[i];
@@ -1377,57 +1343,13 @@ function llenarEvento(data){
     var hora = row.hora;
     var duracion = row.duracion;
 
-
-
-
    var num = 1 + i;
    var curso = materia + "</br>" + profesor;
     var evento = '<li class="tt-event btn-info" data-id="'+num+'" data-day="' + semana[dia] +'" data-start="' + horas[hora] +
                 '" data-duration="'+duracion+'">'+ curso +'</li>';
 
-    console.log(evento);
-    html += evento;
+    //html += evento;
     var cadena = '#salon'+salon + ' .tt-events';
     $(cadena).append(evento);
   }
 }
-
-$.getScript('data/cursos.js');
-
- var spreadsheetID = "1baJ8pb-QfC5jxXriWIUP0eFBak4F3eWz6kPCh3srwNI";
-
- //Agrego las tablas
- for(var i = 1; i < 19; i++){
-   $('#salon'+ i).append(insertaTabla(i));
- }
-
-
- //<li class="tt-event btn-info" data-id="30" data-day="2" data-start="0" data-duration="8">Open day</li>
-
- // Make sure it is public or set to Anyone with link can view
- var url = "https://spreadsheets.google.com/feeds/list/" + spreadsheetID + "/od6/public/values?alt=json";
-
-//Nuevo JSON generado en PHP
- var nuevo ="http://148.216.54.71/downloads/Calendarios/js/transform.php";
-// var datos = $.getJSON(url,llegadaDatos);
-/* $.ajax({
-  dataType: "json",
-  url: url,
-  success: function(data){
-    var cities = JSON.parse(data);
-    console.log(cities.length);
-};
-});
-*/
-//$( tabla ).insertAfter( ".container" );
-//  $('.container').appendTo(tabla);
-
-
-
-for(var i = 1; i < 19; i++){
-$('<h1>salon'+i+'</h1>').prependTo('#salon'+i);
-}
-
-//Llenar los eventos en el Calendarios
-
-  var datos = $.getJSON(nuevo,llenarEvento);
