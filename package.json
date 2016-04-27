@@ -1,0 +1,24 @@
+{
+  "name": "time-table",
+  "version": "1.0.0",
+  "description": "Horarios de Clase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emoron/timeTable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emoron/timeTable/issues"
+  },
+  "homepage": "https://github.com/emoron/timeTable#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jade": "^1.1.0"
+  }
+}
