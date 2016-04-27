@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/bootstrap-responsive.css" rel="stylesheet" />
+    <link href="css/docs.css" rel="stylesheet" />
+    <link href="css/tribal-bootstrap.css" rel="stylesheet" />
+    <link href="css/tribal-timetable.css" rel="stylesheet" />
+
+    <script type="text/javascript" src="js/jquery-latest.js"></script>
+    <script type="text/javascript" src="js/jquery.ba-resize.js"></script>
+    <script type="text/javascript" src="js/bootstrap-tooltip.js"></script>
+    <script type="text/javascript" src="js/bootstrap-collapse.js"></script>
+    <script type="text/javascript" src="js/tribal.js"></script>
+    <script type="text/javascript" src="js/tribal-shared.js"></script>
+    <script type="text/javascript" src="js/tribal-timetable.js"></script>
+
+<!--Agregamos BoostTable
+ -->
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.8.1/bootstrap-table.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.8.1/bootstrap-table.min.js"></script>
+
+<!-- Latest compiled and minified Locales -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.8.1/locale/bootstrap-table-zh-CN.min.js"></script>
+
+
+    <title>Horarios de Clase</title>
+
+</head>
+<body data-offset="50">
+    <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container">
+                <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+                </button>
+                <a class="brand" href="#">Facultad de Ciencias Físico Matemáticas</a>
+                <div class="nav-collapse collapse">
+                    <ul class="nav">
+                        <li class="active"><a href="#">Timetable</a></li>
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+      <header class="jumbotron subhead" id="overview">
+			     <h1>Horarios de Clase Semestre   Ago 2015 - Feb 2016</h1>
+		  </header>
+        <p>Dudas sobre la Programación enviarlas a emoron@gmail.com</p>
+
+    </div>
+    <h1><span class="label label-default">Salones</span></h1>
+    <div id="salon14" class="span12"  > </div>
+
+    <div id="salon1" class="span12"> </div>
+    <div id="salon2" class="span12"> </div>
+    <div id="salon3" class="span12"> </div>
+    <div id="salon4" class="span12"> </div>
+    <div id="salon5" class="span12"> </div>
+    <div id="salon6" class="span12"> </div>
+    <div id="salon7" class="span12"> </div>
+    <div id="salon8" class="span12"> </div>
+    <div id="salon9" class="span12"> </div>
+    <div id="salon10" class="span12"> </div>
+    <div id="salon11" class="span12"> </div>
+    <div id="salon12" class="span12"> </div>
+    <div id="salon13" class="span12"> </div>
+
+    <h1 class="span12">Laboratorios</h1>
+    <div id="salon15" class="span12"> </div>
+    <div id="salon16" class="span12"> </div>
+    <div id="salon17" class="span12"> </div>
+    <div id="salon18" class="span12"> </div>
+    <div id="salon19" class="span12"> </div>
+<!-- Cambio -->
+<script src="js/generador.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+//$(document).on('pagebeforechange',[id="salon1"], function(){
+
+
+  for(var i = 1; i < 19; i++){
+    $('#salon'+ i).append(insertaTabla(i));
+
+    }
+  //  $.getJSON(nuevo,llenarEvento);
+
+   console.log("funciona");
+//    });
+
+</script>
+
+</body>
+</html>
