@@ -28,4 +28,4 @@ gulp.task('watch', function() {
  });
 
  // Default Task
-gulp.task('default', ['scripts','watch']);
+gulp.task('default', ['jade','scripts','watch']);
