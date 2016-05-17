@@ -1,6 +1,6 @@
 
 *.codekit
-node_modules/*
+node_modules/**/*
 build/*.html
 
 build/js/min/generador-min.js
