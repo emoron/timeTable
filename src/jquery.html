@@ -1,34 +1,35 @@
 <h1 ><span class="label label-default">Salones</span></h1>
-<div id="ListadoSalones">
-</div>
+<div id="salones"> </div>
+
 
 <!-- Cambio -->
 <script src="js/generador.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 
-//$(document).on('pagebeforechange',[id="salon1"], function(){
+$( document ).ready(function() {
 
 var listaSalones = generaSalones(farma);
 
-  listaSalones.sort();
-
-for(var i = 1; i < listaSalones.length; i++){
-  var item = listaSalones[i];
-$('#ListadoSalones').append("<div id=\""+item+"\" class=\"span12\"> <\/div>\r\n");
+for (var i = 0; i < listaSalones.length; i++) {
+            var valor = listaSalones[i];
+//  var elemento = $('<h1 class=\"span12\">Salon'+i + '</h1>')
+    //elemento.insertBefore('#salon' + i);
+  $('#salones').append("<div id=\""+valor+"\" class=\"span12\"> </div>");
 }
 
-
-for(var i = 1; i < listaSalones.length; i++){
-  var item = listaSalones[i];
-$('#'+item).prependTo('<h1>'+item+'</h1>');
+for (var i = 0; i < listaSalones.length; i++) {
+    var valor = listaSalones[i];
+ var elemento = $('<h1 class=\"span12\">Salon '+valor + '</h1>')
+    elemento.insertBefore('#' + valor);
+  $('#' + valor).append(insertaTabla(i));
 }
 
-for(var i = 1; i < 14; i++){
-  $('#'+item).append(insertaTabla(i));
-}
+llenarEventoSalon(farma);
 
-llenarEvento(farma);
+
+
+  });
 
 
 //for(var i = 1; i < 14; i++){

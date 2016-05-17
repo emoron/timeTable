@@ -12,6 +12,12 @@ gulp.task('scripts', function() {
       .pipe(gulp.dest('build/js'));
 });
 
+gulp.task('copy', function() {
+    gulp.src(['src/js/*.js'])
+      .pipe(gulp.dest('build/js'));
+		gulp.src(['src/*.html']).pipe(gulp.dest('build/'));
+});
+
 gulp.task('jade',function(){
   return gulp.src('src/index.jade')
   .pipe(jade())
