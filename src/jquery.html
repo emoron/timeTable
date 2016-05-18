@@ -8,6 +8,15 @@
 <script type="text/javascript">
 
 $( document ).ready(function() {
+  var documento = [];
+
+  $.getJSON('data/lista.json',function(data){
+    console.log(data);
+    var items = data.items.map(function (item) {
+        return item;
+      });
+    documento = data;
+  });
 
 var listaSalones = generaSalones(farma);
 

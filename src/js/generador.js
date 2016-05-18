@@ -4037,10 +4037,10 @@ function llenarEventoSalon(lista){
     var curso = materia + "</br>" + profesor;
     var evento = '<li class="tt-event btn-info" data-id="'+num+'" data-day="' + semana[dia] +'" data-start="' + horas[hora] +
                 '" data-duration="'+duracion+'">'+ curso +'</li>';
-    console.log(curso);
-    console.log(i);
-    console.log(salon);
-    console.log('#'+salon+' .tt-events');
+  //  console.log(curso);
+  //  console.log(i);
+  //  console.log(salon);
+  //   console.log('#'+salon+' .tt-events');
     //html += evento;
 
     $('#'+salon+' .tt-events').append(evento);

@@ -24,13 +24,13 @@ gulp.task('jade',function(){
   .pipe(gulp.dest('build'))
 });
 gulp.task('watch', function() {
-  gulp.watch('src/*.jade',['jade']);
+  //gulp.watch('src/*.jade',['jade']);
    // Watch .js files
-  gulp.watch('src/js/*.js', ['scripts']);
+  gulp.watch('src/js/*.js', ['copy']);
    // Watch .scss files
-  gulp.watch('src/scss/*.scss', ['sass']);
+//  gulp.watch('src/scss/*.scss', ['sass']);
    // Watch image files
-  gulp.watch('src/images/**/*', ['images']);
+ gulp.watch('src/*.html', ['copy']);
  });
 
  // Default Task

@@ -1,0 +1,1 @@
+var myApp=angular.module("myApp",[]);myApp.controller("cursos",["$scope","$http",function(s,o){o.get("data/lista.json").success(function(o){s.cursos=o})}]);
