@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/bootstrap-responsive.css" rel="stylesheet">
+<link href="css/docs.css" rel="stylesheet">
+<link href="css/tribal-bootstrap.css" rel="stylesheet">
+<link href="css/tribal-timetable.css" rel="stylesheet">
+<script type="text/javascript" src="js/libs/jquery-latest.js"></script>
+<script type="text/javascript" src="js/libs/jquery.ba-resize.js"></script>
+<script type="text/javascript" src="js/libs/bootstrap-tooltip.js"></script>
+<script type="text/javascript" src="js/libs/bootstrap-collapse.js"></script>
+<script type="text/javascript" src="js/libs/tribal.js"></script>
+<script type="text/javascript" src="js/libs/tribal-shared.js"></script>
+<script type="text/javascript" src="js/libs/tribal-timetable.js"></script>
+<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.8.1/bootstrap-table.min.css">
+<!-- Latest compiled and minified JavaScript -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.8.1/bootstrap-table.min.js"></script>
+<!-- Latest compiled and minified Locales -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.8.1/locale/bootstrap-table-zh-CN.min.js"></script>
+<script src="js/angular.js"></script>
+<script src="js/app.js"></script>
+
+<body data-offset="50" ng-app="myApp">
+    <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container">
+                <button type="button" data-toggle="collapse" data-target=".nav-collapse" class="btn btn-navbar"><span class="icon-bar"></span></button><a href="#" class="brand">Facultad de FarmacoBiología de la UMSNH</a>
+                <div class="nav-collapse collapse">
+                    <ul class="nav">
+                        <li class="active"><a href="#">Timetable</a></li>
+                    </ul>
+                </div>
+                <h1>Texto de prueba</h1></div>
+        </div>
+    </div>
+    <div id="angular" ng-controller="GetCursos">
+        <p ng-repeat="item in cursos"></p>
+    </div>
+    <div id="salones" class="span12"></div>
+    <h1><span class="label label-default">Salones</span></h1>
+    <div id="salones"> </div>
+
+
+    <!-- Cambio -->
+    <script src="js/generador.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var documento = [];
+
+            $.getJSON('data/lista.json', function(data) {
+                console.log(data);
+                var items = data.items.map(function(item) {
+                    return item;
+                });
+                documento = data;
+            });
+
+            var listaSalones = generaSalones(farma);
+
+            for (var i = 0; i < listaSalones.length; i++) {
+                var valor = listaSalones[i];
+                //  var elemento = $('<h1 class=\"span12\">Salon'+i + '</h1>')
+                //elemento.insertBefore('#salon' + i);
+                $('#salones').append("<div id=\"" + valor + "\" class=\"span12\"> </div>");
+            }
+
+            for (var i = 0; i < listaSalones.length; i++) {
+                var valor = listaSalones[i];
+                var elemento = $('<h1 class=\"span12\">Salon ' + valor + '</h1>')
+                elemento.insertBefore('#' + valor);
+                $('#' + valor).append(insertaTabla(i));
+            }
+
+            llenarEventoSalon(farma);
+
+
+
+        });
+
+
+        //for(var i = 1; i < 14; i++){
+        //$('#salon'+ i).append(insertaTabla(i));
+        //  console.log(insertaTabla(i));
+        //}
+        //  $.getJSON(nuevo,llenarEvento);
+
+
+        //    });
+    </script>
+    <p>test</p>
+</body>
+
+</html>
