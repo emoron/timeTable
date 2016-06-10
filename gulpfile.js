@@ -24,7 +24,7 @@ gulp.task('jade',function(){
   .pipe(gulp.dest('build'))
 });
 gulp.task('watch', function() {
-  //gulp.watch('src/*.jade',['jade']);
+  gulp.watch('src/*.jade',['jade']);
    // Watch .js files
   gulp.watch('src/js/*.js', ['copy']);
    // Watch .scss files
@@ -35,3 +35,6 @@ gulp.task('watch', function() {
 
  // Default Task
 gulp.task('default', ['jade','scripts','watch']);
+
+
+
