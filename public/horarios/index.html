@@ -29,10 +29,10 @@
                 <button type="button" data-toggle="collapse" data-target=".nav-collapse" class="btn btn-navbar"><span class="icon-bar"></span></button><a href="#" class="brand">Facultad de FarmacoBiología de la UMSNH</a>
                 <div class="nav-collapse collapse">
                     <ul class="nav">
-                        <li class="active"><a href="#">Timetable</a></li>
+                        <li class="active"><a href="/list">Buscar</a></li>
                     </ul>
                 </div>
-                <h1>Texto de prueba</h1></div>
+                <h1>Horarios Académicos</h1></div>
         </div>
     </div>
     <div id="angular" ng-controller="GetCursos">
@@ -59,7 +59,7 @@
             });
 
             var listaSalones = generaSalones(farma);
-
+						listaSalones = $.grep(listaSalones,function(value){ return value != "N-90"});
             for (var i = 0; i < listaSalones.length; i++) {
                 var valor = listaSalones[i];
                 //  var elemento = $('<h1 class=\"span12\">Salon'+i + '</h1>')

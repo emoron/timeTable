@@ -53,6 +53,13 @@ function unique(arr) {
     return a;
 }
 
+var farma2=[];
+$.getJSON('/JSON/data2.json')
+.done(function( json ) {
+   $.each(json , function(json) {
+     var farma = json; // etc
+   });
+});
 
 var farma = [
   {
