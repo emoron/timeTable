@@ -2,7 +2,7 @@
   "name": "time-table",
   "version": "1.0.0",
   "description": "Horarios de Clase",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,9 +18,12 @@
   "homepage": "https://github.com/emoron/timeTable#readme",
   "devDependencies": {
     "angular": "^1.5.5",
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
     "gulp-ftp": "^1.1.0",
-    "gulp-jade": "^1.1.0"
+    "gulp-jade": "^1.1.0",
+    "mongojs": "^2.4.0"
   }
 }

@@ -1,0 +1,9298 @@
+[
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"M.C. NURIA GOMEZ DORANTES",
+      "DIA":"LUN",
+      "HORARIO":"13-15",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"15-16",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"QFB. JOSÉ ANTONIO  HERRERA VARGAS",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"N-5",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"LFM. PEDRO JOSE CASTAÑEDA GUERRERO",
+      "DIA":"LUN",
+      "HORARIO":"11-13",
+      "SALON":"N-1",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"M.C. NURIA GOMEZ DORANTES",
+      "DIA":"MAR",
+      "HORARIO":"13-15",
+      "SALON":"I-5",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"15-16",
+      "SALON":"I-5",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"D.C. MA. ANGELES FABIAN ALVAREZ",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"A-3",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"M.C. NURIA GOMEZ DORANTES",
+      "DIA":"MIE",
+      "HORARIO":"13-14",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-19",
+      "SALON":"N-4",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"D.C. MA. ANGELES FABIAN ALVAREZ",
+      "DIA":"MIE",
+      "HORARIO":"12-13",
+      "SALON":"N-5",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"QFB. JOSÉ ANTONIO  HERRERA VARGAS",
+      "DIA":"MIE",
+      "HORARIO":"9-11",
+      "SALON":"I-6",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"LFM. PEDRO JOSE CASTAÑEDA GUERRERO",
+      "DIA":"MIE",
+      "HORARIO":"11-12",
+      "SALON":"N-4",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"QFB. JOSÉ ANTONIO  HERRERA VARGAS",
+      "DIA":"VIE",
+      "HORARIO":"10-11",
+      "SALON":"I-5",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"LFM. PEDRO JOSE CASTAÑEDA GUERRERO",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"I.Q. DESSIRE GUTIERREZ GONZALEZ",
+      "DIA":"VIE",
+      "HORARIO":"7-10",
+      "SALON":"N-2",
+      "SECCION":1,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"11-12",
+      "SALON":"I-4",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"M.C. ALMA ROSA GARCÍA RÍOS",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"N-3",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"12-13",
+      "SALON":"I-2",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"I-6",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"13-14",
+      "SALON":"I-6",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"13-14",
+      "SALON":"Anexo-6",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-6",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"I.Q. DESSIRE GUTIERREZ GONZALEZ",
+      "DIA":"MAR",
+      "HORARIO":"7-10",
+      "SALON":"N-2",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"13-15",
+      "SALON":"N-3",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-3",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"M.C. ALMA ROSA GARCÍA RÍOS",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"K-4",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"13-15",
+      "SALON":"N-2",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"12-13",
+      "SALON":"I-4",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"M.C. ALMA ROSA GARCÍA RÍOS",
+      "DIA":"VIE",
+      "HORARIO":"11-12",
+      "SALON":"I-5",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"8-9",
+      "SALON":"I-1",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"13-15",
+      "SALON":"N-2",
+      "SECCION":2,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-5",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"D.C. RUBÉN CHÁVEZ RIVERA",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"K-2",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-5",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-15",
+      "SALON":"N-2",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"M.C. GABINO ESTÉVEZ DELGADO",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"N-2",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-17",
+      "SALON":"N-4",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"D.C. RUBÉN CHÁVEZ RIVERA",
+      "DIA":"MIE",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-6",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"N-5",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"LFM. AZUCENA CHAVEZ GONZALEZ",
+      "DIA":"JUE",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-9",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"M.C. GABINO ESTÉVEZ DELGADO",
+      "DIA":"JUE",
+      "HORARIO":"7-9",
+      "SALON":"K-2",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"I.Q. DESSIRE GUTIERREZ GONZALEZ",
+      "DIA":"JUE",
+      "HORARIO":"9-12",
+      "SALON":"N-2",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"I-6",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"D.C. RUBÉN CHÁVEZ RIVERA",
+      "DIA":"VIE",
+      "HORARIO":"9-10",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"LFM. AZUCENA CHAVEZ GONZALEZ",
+      "DIA":"VIE",
+      "HORARIO":"11-12",
+      "SALON":"I-6",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"M.C. GABINO ESTÉVEZ DELGADO",
+      "DIA":"VIE",
+      "HORARIO":"7-8",
+      "SALON":"I-3",
+      "SECCION":3,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"D.Q. GABRIELA RODRÍGUEZ GARCÍA",
+      "DIA":"LUN",
+      "HORARIO":"11-13",
+      "SALON":"I-3",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"7-8",
+      "SALON":"I-2",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"N-3",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"15-16",
+      "SALON":"N-3",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"18-20",
+      "SALON":"N-3",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"D.Q. GABRIELA RODRÍGUEZ GARCÍA",
+      "DIA":"MIE",
+      "HORARIO":"14-15",
+      "SALON":"N-1",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"7-8",
+      "SALON":"I-2",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"14-15",
+      "SALON":"I-5",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"15-17",
+      "SALON":"N-3",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"18-20",
+      "SALON":"N-2",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"I.Q. DESSIRE GUTIERREZ GONZALEZ",
+      "DIA":"MIE",
+      "HORARIO":"8-11",
+      "SALON":"N-2",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"D.Q. GABRIELA RODRÍGUEZ GARCÍA",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-4",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"7-9",
+      "SALON":"I-2",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"15-17",
+      "SALON":"N-4",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"17-18",
+      "SALON":"N-4",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"7-8",
+      "SALON":"I-2",
+      "SECCION":4,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"M.C. GERARDO MORAN LÓPEZ",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"K-2",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"12-13",
+      "SALON":"I-4",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"M.C. GERARDO MORAN LÓPEZ",
+      "DIA":"MAR",
+      "HORARIO":"11-12",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"10-11",
+      "SALON":"N-5",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNANDEZ",
+      "DIA":"MAR",
+      "HORARIO":"15-16",
+      "SALON":"N-5",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"N-5",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-11",
+      "SALON":"N-412-13N-4",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNANDEZ",
+      "DIA":"MIE",
+      "HORARIO":"18-19",
+      "SALON":"N-5",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNANDEZ",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"I-6",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"11-12",
+      "SALON":"N-3",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNANDEZ",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"N-1",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"JUE",
+      "HORARIO":"8-9",
+      "SALON":"I-6",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. ARMANDO ORDAZ RODRIGUEZ",
+      "DIA":"JUE",
+      "HORARIO":"13-16",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"M.C. GERARDO MORAN LÓPEZ",
+      "DIA":"VIE",
+      "HORARIO":"14-16",
+      "SALON":"I-5",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNANDEZ",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"N-3",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"VIE",
+      "HORARIO":"10-12",
+      "SALON":"N-1",
+      "SECCION":5,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"12-13",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"QFB. LUIS FERNANDO NUÑEZ GARCIA",
+      "DIA":"LUN",
+      "HORARIO":"11-12",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"QFB. LUIS FERNANDO NUÑEZ GARCIA",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA II",
+      "PROFESOR":"QFB. ARMANDO ORDAZ RODRIGUEZ",
+      "DIA":"LUN",
+      "HORARIO":"13-16",
+      "SALON":"N-2",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"11-12",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"QFB. LUIS FERNANDO NUÑEZ GARCIA",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"11-12",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"QFB. LUIS FERNANDO NUÑEZ GARCIA",
+      "DIA":"MIE",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"12-13",
+      "SALON":"Anexo-8",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-8",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"D.C. MA. ANGELES FABIAN ALVAREZ",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-8",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"QFB. LUIS FERNANDO NUÑEZ GARCIA",
+      "DIA":"VIE",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"D.C. MA. ANGELES FABIAN ALVAREZ",
+      "DIA":"VIE",
+      "HORARIO":"10-13",
+      "SALON":"Anexo-7",
+      "SECCION":6,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-3",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNÁNDEZ",
+      "DIA":"LUN",
+      "HORARIO":"18-20",
+      "SALON":"N-1",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-3",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"I-3",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"I-3",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNÁNDEZ",
+      "DIA":"MAR",
+      "HORARIO":"18-20",
+      "SALON":"N-5",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"MAR",
+      "HORARIO":"11-12",
+      "SALON":"K-4",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"MIE",
+      "HORARIO":"11-13",
+      "SALON":"N-3",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-11",
+      "SALON":"I-4",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"MIE",
+      "HORARIO":"13-14",
+      "SALON":"I-1",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB.  ARMANDO ORDAZ RODRIGUEZ",
+      "DIA":"MIE",
+      "HORARIO":"16-19",
+      "SALON":"N-2",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"JUE",
+      "HORARIO":"13-14",
+      "SALON":"N-3",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"15-18",
+      "SALON":"N-5",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNÁNDEZ",
+      "DIA":"JUE",
+      "HORARIO":"18-19",
+      "SALON":"N-5",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"JUE",
+      "HORARIO":"12-13",
+      "SALON":"I-1",
+      "SECCION":7,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"LFM. AZUCENA CHAVEZ GONZALEZ",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-8",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"L.F.M. PEDRO JOSE CASTAÑEDA GUERRERO",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-8",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"Q.F.B. ARMANDO ORDAZ RODRIGUEZ",
+      "DIA":"MAR",
+      "HORARIO":"13-16",
+      "SALON":"N-2",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-17",
+      "SALON":"I-4",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"MIE",
+      "HORARIO":"12-13",
+      "SALON":"I-6",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"LFM. AZUCENA CHAVEZ GONZALEZ",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"N-2",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"LFM. AZUCENA CHAVEZ GONZALEZ",
+      "DIA":"MIE",
+      "HORARIO":"17-18",
+      "SALON":"I-4",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"15-17",
+      "SALON":"Anexo-4",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"JUE",
+      "HORARIO":"13-15",
+      "SALON":"Anexo-4",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"LFM. AZUCENA CHAVEZ GONZALEZ",
+      "DIA":"JUE",
+      "HORARIO":"19-20",
+      "SALON":"Anexo-4",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"LFM. AZUCENA CHAVEZ GONZALEZ",
+      "DIA":"JUE",
+      "HORARIO":"17-19",
+      "SALON":"Anexo-4",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"L.F.M. PEDRO JOSE CASTAÑEDA GUERRERO",
+      "DIA":"JUE",
+      "HORARIO":"12-13",
+      "SALON":"Anexo-4",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"13-15",
+      "SALON":"Anexo-8",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-8",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"L.F.M. PEDRO JOSE CASTAÑEDA GUERRERO",
+      "DIA":"VIE",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-8",
+      "SECCION":8,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-8",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"LUN",
+      "HORARIO":"14-16",
+      "SALON":"N-4",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-8",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MANUEL CALDERÓN RAMÍREZ",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"N-4",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-10",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-19",
+      "SALON":"Anexo-5",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"MIE",
+      "HORARIO":"14-15",
+      "SALON":"N-5",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-11",
+      "SALON":"Anexo-8",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-4",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"14-15",
+      "SALON":"N-3",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"JUE",
+      "HORARIO":"10-11",
+      "SALON":"I-2",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MANUEL CALDERÓN RAMÍREZ",
+      "DIA":"JUE",
+      "HORARIO":"7-9",
+      "SALON":"K-4",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. ARMANDO ORDAZ RODRIGUEZ",
+      "DIA":"JUE",
+      "HORARIO":"16-19",
+      "SALON":"N-2",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"14-16",
+      "SALON":"K-1",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"VIE",
+      "HORARIO":"10-11",
+      "SALON":"I-1",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MANUEL CALDERÓN RAMÍREZ",
+      "DIA":"VIE",
+      "HORARIO":"11-12",
+      "SALON":"I-1",
+      "SECCION":9,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB.  MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"LUN",
+      "HORARIO":"10-11",
+      "SALON":"N-4",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"D.C. MA. DE LOS ÁNGELES FABIAN ÁLVAREZ",
+      "DIA":"LUN",
+      "HORARIO":"11-14",
+      "SALON":"Anexo-6",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MANUEL CALDERÓN RAMÍREZ",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"N-3",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-9",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB.  MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-9",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MANUEL CALDERÓN RAMÍREZ",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"N-3",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. ARMANDO ORDAZ RODRIGUEZ",
+      "DIA":"MAR",
+      "HORARIO":"16-19",
+      "SALON":"N-2",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-9",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB.  MARCOS ALFONSO GARCÍA CASTILLO",
+      "DIA":"JUE",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-9",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"D.C. MA. DE LOS ÁNGELES FABIAN ÁLVAREZ",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-9",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"8-9",
+      "SALON":"I-6",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"QFB. MANUEL CALDERÓN RAMÍREZ",
+      "DIA":"VIE",
+      "HORARIO":"12-15",
+      "SALON":"I-1",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"QFB. MANUEL CALDERÓN RAMÍREZ",
+      "DIA":"VIE",
+      "HORARIO":"9-10",
+      "SALON":"I-3",
+      "SECCION":10,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"LFM. PEDRO JOSÉ CASTAÑEDA GUERRERO",
+      "DIA":"LUN",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"LFM. PEDRO JOSÉ CASTAÑEDA GUERRERO",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"8-9",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"LFM. PEDRO JOSÉ CASTAÑEDA GUERRERO",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"10-13",
+      "SALON":"Anexo-7",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"13-14",
+      "SALON":"Anexo-7",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. ARMANDO ORDAZ RODRIGUEZ",
+      "DIA":"VIE",
+      "HORARIO":"10-13",
+      "SALON":"N-2",
+      "SECCION":11,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"Q.F.B. JOSÉ NOE TRUJILLO NUÑEZ",
+      "DIA":"LUN",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-9",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-5",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"LUN",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-8",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-8",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. ARMANDO ORDAZ RODRIGUEZ",
+      "DIA":"LUN",
+      "HORARIO":"16-19",
+      "SALON":"N-2",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-9",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-9",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-8",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"Q.F.B. JOSÉ NOE TRUJILLO NUÑEZ",
+      "DIA":"MIE",
+      "HORARIO":"13-15",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"MIE",
+      "HORARIO":"12-13",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"JUE",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"Q.F.B. JOSÉ NOE TRUJILLO NUÑEZ",
+      "DIA":"VIE",
+      "HORARIO":"8-9",
+      "SALON":"Anexo-10",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"11-12",
+      "SALON":"I-3",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"VIE",
+      "HORARIO":"10-11",
+      "SALON":"Anexo-9",
+      "SECCION":12,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-6",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-6",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"D.C. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-2",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-5",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-1",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"D.C. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"MAR",
+      "HORARIO":"10-11",
+      "SALON":"Anexo-6",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-1",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-9",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"MIE",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-9",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-9",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-6",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-6",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"10-13",
+      "SALON":"N-2",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-9",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"D.C. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"VIE",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-6",
+      "SECCION":13,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"18-20",
+      "SALON":"Anexo-1",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-1",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-1",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"D.C. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"LUN",
+      "HORARIO":"11-12",
+      "SALON":"Anexo-8",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-19",
+      "SALON":"N-2",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-8",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-8",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"D.C. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"MAR",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-6",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"18-20",
+      "SALON":"Anexo-8",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"DC. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"MIE",
+      "HORARIO":"11-12",
+      "SALON":"Anexo-3",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"17-20",
+      "SALON":"Anexo-5",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"13-14",
+      "SALON":"Anexo-10",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"12-13",
+      "SALON":"Anexo-10",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"D.C. JOEL ARTURO RODRIGUEZ CEBALLOS",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-10",
+      "SECCION":14,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-4",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-4",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"13-14",
+      "SALON":"Anexo-4",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"8-10",
+      "SALON":"K-3",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-19",
+      "SALON":"N-2",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"18-20",
+      "SALON":"Anexo-6",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-6",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-8",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"15-17",
+      "SALON":"Anexo-8",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-5",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-8",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"18-20",
+      "SALON":"Anexo-8",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-8",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"13-14",
+      "SALON":"Anexo-10",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-10",
+      "SECCION":15,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. LILIAN BRIBIESCA RODRÍGUEZ",
+      "DIA":"LUN",
+      "HORARIO":"10-13",
+      "SALON":"N-2",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-2",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"D.C. OSVALDO AGUILAR",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-2",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-7",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-6",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-6",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-6",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"11-12",
+      "SALON":"Anexo-2",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"D.C. OSVALDO AGUILAR",
+      "DIA":"JUE",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-6",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-6",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"16-18",
+      "SALON":"K-2",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"D.C. OSVALDO AGUILAR",
+      "DIA":"VIE",
+      "HORARIO":"13-14",
+      "SALON":"K-2",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"15-16",
+      "SALON":"K-2",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-9",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"14-15",
+      "SALON":"K-2",
+      "SECCION":16,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-8",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-19",
+      "SALON":"Anexo-8",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"K-2",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"18-20",
+      "SALON":"K-2",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"QFB. LILIAN BRIBIESCA RODRÍGUEZ",
+      "DIA":"MAR",
+      "HORARIO":"10-13",
+      "SALON":"N-2",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIMAR",
+      "DIA":"MIE",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-7",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-7",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"18-20",
+      "SALON":"Anexo-7",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"18-20",
+      "SALON":"Anexo-7",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-7",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-7",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIMAR",
+      "DIA":"VIE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-5",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"13-14",
+      "SALON":"Anexo-5",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-5",
+      "SECCION":17,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"17-19",
+      "SALON":"Anexo-7",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-7",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-17",
+      "SALON":"Anexo-7",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-7",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"18-19",
+      "SALON":"Anexo-7",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"",
+      "DIA":"MAR",
+      "HORARIO":"19-20",
+      "SALON":"Anexo-7",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-7",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-4",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-9",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"",
+      "DIA":"MIE",
+      "HORARIO":"18-20",
+      "SALON":"Anexo-9",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"13-15",
+      "SALON":"Anexo-5",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ALGEBRA LINEAL",
+      "PROFESOR":"",
+      "DIA":"JUE",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-5",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FÍSICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-5",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"MATEMÁTICAS I",
+      "PROFESOR":"",
+      "DIA":"VIE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-9",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"13-16",
+      "SALON":"N-2",
+      "SECCION":18,
+      "SEMESTRE":1
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-16",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"QFB.  ERNESTO RINCÓNANAYA",
+      "DIA":"LUN",
+      "HORARIO":"16-20",
+      "SALON":"LAB. I-5",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"7-8",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"MAR",
+      "HORARIO":"8-9",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. LUIS CHACÓN GARCÍA",
+      "DIA":"MIE",
+      "HORARIO":"17-19",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"MIE",
+      "HORARIO":"8-9",
+      "SALON":"N-2",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"7-8",
+      "SALON":"N-2",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. JUAN BOSCO GUZMÁN PÉREZ",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"N-2",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. LUIS CHACÓN GARCÍA",
+      "DIA":"JUE",
+      "HORARIO":"17-20",
+      "SALON":"K-3",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. JUAN BOSCO GUZMÁN PÉREZ",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"I-5",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"VIE",
+      "HORARIO":"12-15",
+      "SALON":"N-1",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"7-9",
+      "SALON":"N-1",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. JUAN BOSCO GUZMÁN PÉREZ",
+      "DIA":"VIE",
+      "HORARIO":"10-12",
+      "SALON":"N-3",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"QFB. OSCAR ANTONIO MUÑOS LOPES",
+      "DIA":"VIE",
+      "HORARIO":"16-21",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. CLAUDIA ARACELI CONTRERAS CELEDON",
+      "DIA":"LUN",
+      "HORARIO":"7-8",
+      "SALON":"I-5",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"8-9",
+      "SALON":"I-5",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"LUN",
+      "HORARIO":"9-10",
+      "SALON":"I-5",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"I.Q.I. FRANCISCO JAVIER ESTRADA CERVANTES",
+      "DIA":"LUN",
+      "HORARIO":"10-11",
+      "SALON":"I-5",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"17-21",
+      "SALON":"LAB. I-3",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. CLAUDIA ARACELI CONTRERAS CELEDON",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"K-4",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"I.Q.I. FRANCISCO JAVIER ESTRADA CERVANTES",
+      "DIA":"MAR",
+      "HORARIO":"10-11",
+      "SALON":"K-4",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. ROSALÍO MERCADO CAMARGO",
+      "DIA":"MAR",
+      "HORARIO":"11-13",
+      "SALON":"I-5",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"QFB. ERNESTO RINCÓN ANAYA",
+      "DIA":"MAR",
+      "HORARIO":"16-20",
+      "SALON":"LAB. I-5",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"MIE",
+      "HORARIO":"9-11",
+      "SALON":"N-3",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"I.Q.I. FRANCISCO JAVIER ESTRADA CERVANTES",
+      "DIA":"MIE",
+      "HORARIO":"11-12",
+      "SALON":"I-6",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. ROSALÍO MERCADO CAMARGO",
+      "DIA":"MIE",
+      "HORARIO":"8-9",
+      "SALON":"N-3",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"K-1",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"JUE",
+      "HORARIO":"11-13",
+      "SALON":"N-1",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"QFB. OSCAR ANTONIO MUÑOS LOPES",
+      "DIA":"JUE",
+      "HORARIO":"16-21",
+      "SALON":"LAB- I-3",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. CLAUDIA ARACELI CONTRERAS CELEDON",
+      "DIA":"VIE",
+      "HORARIO":"7-9",
+      "SALON":"K-4",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"9-10",
+      "SALON":"I-1",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. ROSALÍO MERCADO CAMARGO",
+      "DIA":"VIE",
+      "HORARIO":"10-12",
+      "SALON":"I-2",
+      "SECCION":2,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"D.C. RUBÉN CHÁVEZ RIVERA",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"QFB. ERNESTO RINCÓN ANAYA",
+      "DIA":"LUN",
+      "HORARIO":"11-15",
+      "SALON":"LAB. I-5",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C.YLIANA LOPEZ CASTRO",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"I-6",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"K-2",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-15",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. ULISES HUERTA SILVA",
+      "DIA":"MAR",
+      "HORARIO":"17-18",
+      "SALON":"K-3",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"D.C. RUBÉN CHÁVEZ RIVERA",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHÁVEZ CARBAJAL",
+      "DIA":"MIE",
+      "HORARIO":"11-12",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-11",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. ULISES HUERTA SILVA",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"QFB. OSCAR ANTONIO MUÑOS LOPES",
+      "DIA":"MIE",
+      "HORARIO":"16-21",
+      "SALON":"LAB. I-3",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C.YLIANA LOPEZ CASTRO",
+      "DIA":"JUE",
+      "HORARIO":"8-9",
+      "SALON":"N-4",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"7-8",
+      "SALON":"N-4",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. ULISES HUERTA SILVA",
+      "DIA":"JUE",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-2",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C.YLIANA LOPEZ CASTRO",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"I-3",
+      "SECCION":3,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING.  JORGE CHAVEZ CARBAJAL",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"I-5",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"I.Q.I. FRANCISCO JAVIER ESTRADA CERVANTES",
+      "DIA":"LUN",
+      "HORARIO":"11-12",
+      "SALON":"I-5",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. JUAN DIEGO HERNÁNDEZ HERNÁNDEZ",
+      "DIA":"MAR",
+      "HORARIO":"7-8",
+      "SALON":"I-1",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"D.C. RUBÉN CHÁVEZ RIVERA",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-6",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"I.Q.I. FRANCISCO JAVIER ESTRADA CERVANTES",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"N-1",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. ULISES HUERTA SILVA",
+      "DIA":"MAR",
+      "HORARIO":"11-12",
+      "SALON":"I-3",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"QFB. OSCAR ANTONIO MUÑOS LOPES",
+      "DIA":"MAR",
+      "HORARIO":"16-21",
+      "SALON":"LAB. I-3",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. JUAN DIEGO HERNÁNDEZ HERNÁNDEZ",
+      "DIA":"MIE",
+      "HORARIO":"7-9",
+      "SALON":"I-1",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"QFB.  MA. GUADALUPE PÉREZ CHÁVEZ",
+      "DIA":"MIE",
+      "HORARIO":"12-16",
+      "SALON":"LAB. I-3",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. JUAN DIEGO HERNÁNDEZ HERNÁNDEZ",
+      "DIA":"JUE",
+      "HORARIO":"7-8",
+      "SALON":"I-1",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"D.C. RUBÉN CHÁVEZ RIVERA",
+      "DIA":"JUE",
+      "HORARIO":"8-9",
+      "SALON":"I-1",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING.  JORGE CHAVEZ CARBAJAL",
+      "DIA":"JUE",
+      "HORARIO":"9-11",
+      "SALON":"N-3",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. ULISES HUERTA SILVA",
+      "DIA":"JUE",
+      "HORARIO":"11-13",
+      "SALON":"N-2",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. JUAN DIEGO HERNÁNDEZ HERNÁNDEZ",
+      "DIA":"VIE",
+      "HORARIO":"7-8",
+      "SALON":"I-1",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING.  JORGE CHAVEZ CARBAJAL",
+      "DIA":"VIE",
+      "HORARIO":"9-10",
+      "SALON":"I-5",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. ULISES HUERTA SILVA",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"N-2",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"QFB. VIRIDIANA MONDRAGÓN DAMIÁN",
+      "DIA":"VIE",
+      "HORARIO":"16-20",
+      "SALON":"LAB. I-5",
+      "SECCION":4,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"13-14",
+      "SALON":"I-4",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. CONSUELO DE JESUS CORTES PENAGOS",
+      "DIA":"LUN",
+      "HORARIO":"11-13",
+      "SALON":"I-6",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"MAR",
+      "HORARIO":"10-11",
+      "SALON":"N-4",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHAVEZ CARBAJAL",
+      "DIA":"MAR",
+      "HORARIO":"11-12",
+      "SALON":"N-4",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. CONSUELO DE JESUS CORTES PENAGOS",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"MIE",
+      "HORARIO":"10-11",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHAVEZ CARBAJAL",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"11-12",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"JUE",
+      "HORARIO":"11-12",
+      "SALON":"I-3",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"16-19",
+      "SALON":"I-6",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. JORGE CHAVEZ CARBAJAL",
+      "DIA":"JUE",
+      "HORARIO":"13-15",
+      "SALON":"I-3",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. CONSUELO DE JESUS CORTES PENAGOS",
+      "DIA":"JUE",
+      "HORARIO":"12-13",
+      "SALON":"I-3",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"QFB. ERNESTO RINCÓN ANAYA",
+      "DIA":"JUE",
+      "HORARIO":"7-11",
+      "SALON":"LAB. I-5",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"VIE",
+      "HORARIO":"9-11",
+      "SALON":"I-6",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"7-8",
+      "SALON":"I-6",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"QFB. MA. GUADALUPE PÉREZ CHÁVEZ",
+      "DIA":"VIE",
+      "HORARIO":"11-15",
+      "SALON":"LAB. I-3",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"QFB. OSCAR ANTONIO MUÑOS LOPES",
+      "DIA":"SAB",
+      "HORARIO":"7-12",
+      "SALON":"LAB. I-3",
+      "SECCION":5,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"18-20",
+      "SALON":"N-3",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. RAFAEL ZAMORA VEGA",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"N-3",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. ÁLVARO RODRÍGUEZ BARRÓN",
+      "DIA":"MAR",
+      "HORARIO":"19-20",
+      "SALON":"I-6",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"M.C. MARÍA DEL ROCIO LARA MADRIGAL",
+      "DIA":"MAR",
+      "HORARIO":"17-18",
+      "SALON":"I-6",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"18-19",
+      "SALON":"I-6",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. RAFAEL ZAMORA VEGA",
+      "DIA":"MAR",
+      "HORARIO":"16-17",
+      "SALON":"I-6",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"M.C. MARÍA DEL ROCIO LARA MADRIGAL",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"I-5",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICO QUÍMICA IV",
+      "PROFESOR":"QFB. ERNESTO RINCÓN ANAYA",
+      "DIA":"MIE",
+      "HORARIO":"16-20",
+      "SALON":"LAB. I-5",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. ÁLVARO RODRÍGUEZ BARRÓN",
+      "DIA":"JUE",
+      "HORARIO":"14-16",
+      "SALON":"I-6",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"18-20",
+      "SALON":"N-2",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"13-14",
+      "SALON":"I-6",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. RAFAEL ZAMORA VEGA",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"N-2",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. ÁLVARO RODRÍGUEZ BARRÓN",
+      "DIA":"VIE",
+      "HORARIO":"15-17",
+      "SALON":"I-6",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-6",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"QFB.  MA. GUADALUPE PÉREZ CHÁVEZ",
+      "DIA":"VIE",
+      "HORARIO":"7-11",
+      "SALON":"LAB. I-3",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"SAB",
+      "HORARIO":"13-18",
+      "SALON":"LAB. I-3",
+      "SECCION":6,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"LUN",
+      "HORARIO":"11-13",
+      "SALON":"N-3",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"18-20",
+      "SALON":"N-4",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNANDEZ",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"N-4",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"QFB. MA. GUADALUPE PÉREZ CHÁVEZ",
+      "DIA":"LUN",
+      "HORARIO":"7-11",
+      "SALON":"LAB. I-3",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"MAR",
+      "HORARIO":"11-12",
+      "SALON":"N-3",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-15",
+      "SALON":"I-2",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNANDEZ",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"I-3",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"D.C. MATEO ALFREDO CASTILLO CEJA",
+      "DIA":"MAR",
+      "HORARIO":"12-13",
+      "SALON":"N-3",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. RAFAEL ORTIZ ALVARADO",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"N-1",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"MIE",
+      "HORARIO":"13-14",
+      "SALON":"N-5",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"7-12",
+      "SALON":"LAB. I-3",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. TANIA K. BRAVO HERNÁNDEZ",
+      "DIA":"JUE",
+      "HORARIO":"12-13",
+      "SALON":"I-4",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"D.C. MATEO ALFREDO CASTILLO CEJA",
+      "DIA":"JUE",
+      "HORARIO":"13-15",
+      "SALON":"I-2",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. RAFAEL ORTIZ ALVARADO",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"N-4",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNANDEZ",
+      "DIA":"VIE",
+      "HORARIO":"10-11",
+      "SALON":"I-4",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"D.C. RAFAEL ORTIZ ALVARADO",
+      "DIA":"VIE",
+      "HORARIO":"11-12",
+      "SALON":"I-4",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"QFB. ERNESTO RINCON ANAYA",
+      "DIA":"VIE",
+      "HORARIO":"12-16",
+      "SALON":"LAB. I-5",
+      "SECCION":7,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. ÁLVARO RODRÍGUEZ BARRÓN",
+      "DIA":"LUN",
+      "HORARIO":"15-17",
+      "SALON":"I-6",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"M. C. JULIO CESAR LEYVA RUIZ",
+      "DIA":"LUN",
+      "HORARIO":"7-8",
+      "SALON":"Anexo-3",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"13-15",
+      "SALON":"I-2",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"M.C. EDUARDO GONZÁLEZ VALDEZ",
+      "DIA":"LUN",
+      "HORARIO":"17-19",
+      "SALON":"K-4",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"D.C. ANA EDITH HIGAREDA MENDOZA",
+      "DIA":"LUN",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-3",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. ÁLVARO RODRÍGUEZ BARRÓN",
+      "DIA":"MAR",
+      "HORARIO":"18-19",
+      "SALON":"I-2",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"19-20",
+      "SALON":"I-2",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. ÁLVARO RODRÍGUEZ BARRÓN",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"K-2",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"M. C. JULIO CESAR LEYVA RUIZ",
+      "DIA":"MIE",
+      "HORARIO":"7-8",
+      "SALON":"I-4",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"D.C. ANA EDITH HIGAREDA MENDOZA",
+      "DIA":"MIE",
+      "HORARIO":"8-9",
+      "SALON":"N-4",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"N-5",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"QFB. VIRIDIANA MONDRAGÓN DAMIÁN",
+      "DIA":"JUE",
+      "HORARIO":"16-20",
+      "SALON":"LAB. I-5",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"7-12",
+      "SALON":"LAB. I-3",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"M. C. JULIO CESAR LEYVA RUIZ",
+      "DIA":"VIE",
+      "HORARIO":"7-8",
+      "SALON":"N-3",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"M.C. EDUARDO GONZÁLEZ VALDEZ",
+      "DIA":"VIE",
+      "HORARIO":"11-12",
+      "SALON":"N-4",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"D.C. ANA EDITH HIGAREDA MENDOZA",
+      "DIA":"VIE",
+      "HORARIO":"8-10",
+      "SALON":"N-3",
+      "SECCION":8,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M. en N.  MIREYA RAMOS RENDÓN",
+      "DIA":"LUN",
+      "HORARIO":"7-11",
+      "SALON":"LAB. I-5",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"11-16",
+      "SALON":"LAB. I-3",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. MARIO ARMANDO GOMEZ HURTADO",
+      "DIA":"MAR",
+      "HORARIO":"19-20",
+      "SALON":"I-4",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"15-17",
+      "SALON":"I-4",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNÁNDEZ",
+      "DIA":"MAR",
+      "HORARIO":"14-15",
+      "SALON":"I-4",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. RAFAEL ZAMORA VEGA",
+      "DIA":"MAR",
+      "HORARIO":"17-19",
+      "SALON":"I-4",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-17",
+      "SALON":"K-3",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNÁNDEZ",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"K-3",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"13-14",
+      "SALON":"K-3",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. RAFAEL ZAMORA VEGA",
+      "DIA":"MIE",
+      "HORARIO":"17-19",
+      "SALON":"K-3",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. MARIO ARMANDO GOMEZ HURTADO",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"K-4",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"ING. EDUARDO OCHOA HERNÁNDEZ",
+      "DIA":"JUE",
+      "HORARIO":"14-16",
+      "SALON":"K-4",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. RAFAEL ZAMORA VEGA",
+      "DIA":"JUE",
+      "HORARIO":"18-19",
+      "SALON":"K-4",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.C. MARIO ARMANDO GOMEZ HURTADO",
+      "DIA":"VIE",
+      "HORARIO":"15-17",
+      "SALON":"I-4",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"I-2",
+      "SECCION":9,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-15",
+      "SALON":"N-5",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"N-5",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-4",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-4",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M. en N. MIREYA RAMOS RENDON",
+      "DIA":"MAR",
+      "HORARIO":"7-11",
+      "SALON":"LAB. I-5",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-1",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. RAFAEL ZAMORA VEGA",
+      "DIA":"MIE",
+      "HORARIO":"15-17",
+      "SALON":"I-2",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"D.C. RUBEN CHAVEZ RIVERA",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"N-5",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"N-5",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"10-11",
+      "SALON":"Anexo-10",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"D.C. RUBEN CHAVEZ RIVERA",
+      "DIA":"VIE",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-2",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"12-13",
+      "SALON":"I-5",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M.C. RAFAEL ZAMORA VEGA",
+      "DIA":"VIE",
+      "HORARIO":"16-19",
+      "SALON":"K-3",
+      "SECCION":10,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"15-18",
+      "SALON":"K-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-7",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"13-15",
+      "SALON":"K-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"M.C. JUAN BOSCO GUZMÁN PÉREZ",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-6",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"M.C. JUAN BOSCO GUZMÁN PÉREZ",
+      "DIA":"MAR",
+      "HORARIO":"10-11",
+      "SALON":"K-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M. en N. MIREYA RAMOS RENDON",
+      "DIA":"MAR",
+      "HORARIO":"11-15",
+      "SALON":"LAB. I-5",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-10",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"QFB.  MA. GUADALUPE PEREZ CHAVEZ",
+      "DIA":"JUE",
+      "HORARIO":"12-16",
+      "SALON":"LAB. I-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"10-11",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"M.C. JUAN BOSCO GUZMÁN PÉREZ",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"17-19",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"15-17",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"QFB. MA. GUADALUPE PEREZ CHAVEZ",
+      "DIA":"MAR",
+      "HORARIO":"7-11",
+      "SALON":"LAB. I-3",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"17-19",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"15-17",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M. en N. MIREYA RAMOS RENDON",
+      "DIA":"MIE",
+      "HORARIO":"7-11",
+      "SALON":"LAB. I-5",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"17-18",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"15-17",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"8-11",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"13-14",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. ROSA MA. TRUJILLO AGUIRRE",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-19",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. ROSA MA. TRUJILLO AGUIRRE",
+      "DIA":"MIE",
+      "HORARIO":"7-8",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"8-11",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"11-14",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"M.C. ROSA MA. TRUJILLO AGUIRRE",
+      "DIA":"JUE",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-4",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICO QUÍMICA IV",
+      "PROFESOR":"QFB. VIRIDIANA MONDRAGÓN DAMIÁN",
+      "DIA":"VIE",
+      "HORARIO":"7-11",
+      "SALON":"LAB. I-3",
+      "SECCION":13,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.Q. LIDIA BEIZA",
+      "DIA":"MAR",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-5",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"7-8",
+      "SALON":"Anexo-3",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"8-9",
+      "SALON":"Anexo-5",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"10-11",
+      "SALON":"Anexo-5",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"11-16",
+      "SALON":"LAB. I-3",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.Q. LIDIA BEIZA",
+      "DIA":"MIE",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-5",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"7-8",
+      "SALON":"Anexo-1",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"15-18",
+      "SALON":"N-1",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"M. en N. MIREYA RAMOS RENDON",
+      "DIA":"MIE",
+      "HORARIO":"11-15",
+      "SALON":"LAB. I-5",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"8-9",
+      "SALON":"Anexo-2",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"17-19",
+      "SALON":"Anexo-3",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"15-17",
+      "SALON":"Anexo-3",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.Q. LIDIA BEIZA",
+      "DIA":"VIE",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-5",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-5",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-5",
+      "SECCION":14,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.Q. LIDIA BEIZA",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-5",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-15",
+      "SALON":"Anexo-3",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-5",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"15-16",
+      "SALON":"Anexo-3",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-3",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-3",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.Q. LIDIA BEIZA",
+      "DIA":"MIE",
+      "HORARIO":"10-11",
+      "SALON":"Anexo-1",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FÍSICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-3",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUIMICA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-3",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ANÁLISIS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"8-11",
+      "SALON":"Anexo-5",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA IV",
+      "PROFESOR":"QFB. MIREYA RAMOS RENDON",
+      "DIA":"JUE",
+      "HORARIO":"11-15",
+      "SALON":"LAB. I-5",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"QUÍMICA ORGÁNICA I",
+      "PROFESOR":"D.Q. LIDIA BEIZA",
+      "DIA":"VIE",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-4",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"ESTADÍSTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-4",
+      "SECCION":15,
+      "SEMESTRE":3
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JORGE OCTAVIO ÁVILA RAMIREZ",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"N-4",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"QFB. MANUEL MEZA CORIA",
+      "DIA":"LUN",
+      "HORARIO":"9-10",
+      "SALON":"N-4",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"11-15",
+      "SALON":"N-2",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"QFB. MANUEL MEZA CORIA",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"K-1",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C. ESTHER GARCÍA GARIBAY",
+      "DIA":"MAR",
+      "HORARIO":"7-8",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. CARMEN ADRIANA TENA GUIDO",
+      "DIA":"MAR",
+      "HORARIO":"10-15",
+      "SALON":"LAB. I-4",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JORGE OCTAVIO ÁVILA RAMIREZ",
+      "DIA":"MIE",
+      "HORARIO":"7-9",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. ALMA ROSA GARCÍA RÍOS",
+      "DIA":"MIE",
+      "HORARIO":"11-13",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGIA I",
+      "PROFESOR":"QFB. RICARDO VEGA TAVERA",
+      "DIA":"MIE",
+      "HORARIO":"9-11",
+      "SALON":"LAB. I-1",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. ALMA ROSA GARCÍA RÍOS",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"N-4",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C. ESTHER GARCÍA GARIBAY",
+      "DIA":"JUE",
+      "HORARIO":"7-9",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. MARIA TERESA GONZALEZ SANCHEZ",
+      "DIA":"JUE",
+      "HORARIO":"11-14",
+      "SALON":"Ed. “E” Planta alta",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C. ESTHER GARCÍA GARIBAY",
+      "DIA":"VIE",
+      "HORARIO":"7-9",
+      "SALON":"N-4",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGIA I",
+      "PROFESOR":"QFB. RICARDO VEGA TAVERA",
+      "DIA":"VIE",
+      "HORARIO":"9-11",
+      "SALON":"LAB. I-1",
+      "SECCION":1,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"QFB. YOHANA ARROYO TERÁN",
+      "DIA":"LUN",
+      "HORARIO":"16-20",
+      "SALON":"N-2",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. CARMEN ADRIANA TENA GUIDO",
+      "DIA":"LUN",
+      "HORARIO":"10-15",
+      "SALON":"LAB. I-4",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. SANDRA MARÍA SUAREZ MORENO",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"N-2",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. MARIA TERESA GONZALEZ SANCHEZ",
+      "DIA":"MAR",
+      "HORARIO":"11-14",
+      "SALON":"Ed. “E”Planta alta",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. SANDRA MARÍA SUAREZ MORENO",
+      "DIA":"MIE",
+      "HORARIO":"13-15",
+      "SALON":"I-2",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-17",
+      "SALON":"K-2",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS  INSTRUMENTAL",
+      "PROFESOR":"M.C. LUIS RAÚL CHÁVEZ GARIBAY",
+      "DIA":"MIE",
+      "HORARIO":"9-11",
+      "SALON":"K-4",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RICARDO VEGA TAVERA",
+      "DIA":"MIE",
+      "HORARIO":"11-13",
+      "SALON":"LAB. I-1",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"16-17",
+      "SALON":"K-3",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. FRANCISCO JAVIER  GALLEGOS DEVEZE",
+      "DIA":"JUE",
+      "HORARIO":"11-13",
+      "SALON":"K-1",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS  INSTRUMENTAL",
+      "PROFESOR":"M.C. LUIS RAÚL CHÁVEZ GARIBAY",
+      "DIA":"JUE",
+      "HORARIO":"10-11",
+      "SALON":"K-3",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"16-17",
+      "SALON":"I-5",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. FRANCISCO JAVIER  GALLEGOS DEVEZE",
+      "DIA":"VIE",
+      "HORARIO":"11-12",
+      "SALON":"K-3",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS  INSTRUMENTAL",
+      "PROFESOR":"M.C. LUIS RAÚL CHÁVEZ GARIBAY",
+      "DIA":"VIE",
+      "HORARIO":"9-11",
+      "SALON":"K-3",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RICARDO VEGA TAVERA",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"LAB. I-1",
+      "SECCION":2,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"13-15",
+      "SALON":"N-2",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. MARIA TERESA GONZALEZ SANCHEZ",
+      "DIA":"LUN",
+      "HORARIO":"9-12",
+      "SALON":"Ed. “E”Planta alta",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"8-9",
+      "SALON":"I-4",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. MARÍA DEL ROSIO MÉNDEZ RUÍZ",
+      "DIA":"MAR",
+      "HORARIO":"9-10",
+      "SALON":"K-3",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"M.C. LUIS RAÚL CHÁVEZ GARIBAY",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"K-1",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"QFB. YOHANA ARROYO TERÁN",
+      "DIA":"MAR",
+      "HORARIO":"16-20",
+      "SALON":"N-2",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RICARDO VEGA TAVERA",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"LAB. I-1",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"7-8",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. MARÍA DEL ROSIO MÉNDEZ RUÍZ",
+      "DIA":"MIE",
+      "HORARIO":"8-9",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. CARMEN ADRIANA TENA GUIDO",
+      "DIA":"MIE",
+      "HORARIO":"9-14",
+      "SALON":"LAB. I-4",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"10-11",
+      "SALON":"K-1",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"8-9",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. MARÍA DEL ROSIO MÉNDEZ RUÍZ",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"K-3",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"M.C. LUIS RAÚL CHÁVEZ GARIBAY",
+      "DIA":"JUE",
+      "HORARIO":"11-12",
+      "SALON":"K-3",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RICARDO VEGA TAVERA",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"LAB. I-1",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"11-12",
+      "SALON":"K-1",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"M.C. LUIS RAÚL CHÁVEZ GARIBAY",
+      "DIA":"VIE",
+      "HORARIO":"7-9",
+      "SALON":"K-3",
+      "SECCION":3,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGIA I",
+      "PROFESOR":"QFB. JORGE OCTAVIO ÁVILA RAMÍREZ",
+      "DIA":"LUN",
+      "HORARIO":"17-19",
+      "SALON":"I-4",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"10-11",
+      "SALON":"I-3",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"IQI. FRANCISCO JAVIER ESTRADA CERVANTES",
+      "DIA":"LUN",
+      "HORARIO":"9-10",
+      "SALON":"I-3",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C. JOSÉ LUIS SALVADOR HERNÁNDEZ",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"I-3",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"IQI. FRANCISCO JAVIER ESTRADA CERVANTES",
+      "DIA":"MAR",
+      "HORARIO":"9-10",
+      "SALON":"K-4",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. LESLIE MALLELI BARRIGA TELLEZ",
+      "DIA":"MAR",
+      "HORARIO":"15-20",
+      "SALON":"LAB. I-4",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"MSP. PATRICIA YAZMIN FIGUEROA CHÁVEZ",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"LAB. I-1",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGIA I",
+      "PROFESOR":"QFB. JORGE OCTAVIO ÁVILA RAMÍREZ",
+      "DIA":"MIE",
+      "HORARIO":"17-19",
+      "SALON":"N-3",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"I-5",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"IQI. FRANCISCO JAVIER ESTRADA CERVANTES",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"K-3",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C. JOSÉ LUIS SALVADOR HERNÁNDEZ",
+      "DIA":"MIE",
+      "HORARIO":"7-9",
+      "SALON":"K-3",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C. JOSÉ LUIS SALVADOR HERNÁNDEZ",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"K-4",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"MSP. PATRICIA YAZMIN FIGUEROA CHÁVEZ",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"LAB. I-1",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. MARIA TERESA GONZALEZ SANCHEZ",
+      "DIA":"VIE",
+      "HORARIO":"8-11",
+      "SALON":"Ed. “E”Planta alta",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"16-20",
+      "SALON":"N-2",
+      "SECCION":4,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C.  ROSA ELVA NORMA DEL RIO TORRES",
+      "DIA":"LUN",
+      "HORARIO":"18-20",
+      "SALON":"K-3",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RICARDO VEGA TAVERA",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"N-3",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. LUIS HELIODORO MÉNDEZ DURÁN",
+      "DIA":"MAR",
+      "HORARIO":"16-17",
+      "SALON":"N-5",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"D.C. MATEO ALFREDO CASTILLO CEJA",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"K-3",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C.  ROSA ELVA NORMA DEL RIO TORRES",
+      "DIA":"MAR",
+      "HORARIO":"17-20",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. MARIA TERESA GONZALEZ SANCHEZ",
+      "DIA":"MIE",
+      "HORARIO":"7-10",
+      "SALON":"Ed. “E”Planta alta",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. LESLIE MALLELI BARRIGA TELLEZ",
+      "DIA":"MIE",
+      "HORARIO":"15-20",
+      "SALON":"LAB.I-4",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"MSP. PATRICIA YAZMIN FIGUEROA CHÁVEZ",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"LAB. I-2",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RICARDO VEGA TAVERA",
+      "DIA":"JUE",
+      "HORARIO":"9-11",
+      "SALON":"I-6",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"16-20",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. LUIS HELIODORO MÉNDEZ DURÁN",
+      "DIA":"VIE",
+      "HORARIO":"16-18",
+      "SALON":"N-5",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"D.C. MATEO ALFREDO CASTILLO CEJA",
+      "DIA":"VIE",
+      "HORARIO":"8-9",
+      "SALON":"K-1",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"MSP. PATRICIA YAZMIN FIGUEROA CHÁVEZ",
+      "DIA":"VIE",
+      "HORARIO":"14-16",
+      "SALON":"LAB. I-2",
+      "SECCION":5,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"9-10",
+      "SALON":"N-2",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"8-9",
+      "SALON":"N-5",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.Q. GABRIELA RODRÍGUEZ GARCÍA/M.C. EDUARDO GONZALEZ VALDEZ",
+      "DIA":"LUN",
+      "HORARIO":"10-12",
+      "SALON":"N-2",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.Q. GABRIELA RODRÍGUEZ GARCÍA/M.C. EDUARDO GONZALEZ VALDEZ",
+      "DIA":"MAR",
+      "HORARIO":"11-13",
+      "SALON":"I-2",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. MARIA TERESA GONZALEZ SANCHEZ",
+      "DIA":"MAR",
+      "HORARIO":"8-11",
+      "SALON":"Ed. “E”Planta alta",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"LAB. I-1",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"N-4",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. EDUARDO GONZALEZ VALDEZ",
+      "DIA":"MIE",
+      "HORARIO":"7-8",
+      "SALON":"N-3",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. EDUARDO GONZALEZ VALDEZ",
+      "DIA":"JUE",
+      "HORARIO":"8-10",
+      "SALON":"I-5",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.Q. GABRIELA RODRÍGUEZ GARCÍA/M.C. EDUARDO GONZALEZ VALDEZ",
+      "DIA":"JUE",
+      "HORARIO":"7-8",
+      "SALON":"N-1",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. CARMEN ADRIANA TENA GUIDO",
+      "DIA":"JUE",
+      "HORARIO":"10-15",
+      "SALON":"LAB.I-4",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"LAB.I-1",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"14-16",
+      "SALON":"N-5",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"16-18",
+      "SALON":"K-4",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"QFB. JOSÉ NOÉ TRUJILLO NÚÑEZ",
+      "DIA":"SAB",
+      "HORARIO":"7-11",
+      "SALON":"N-2",
+      "SECCION":6,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. PATRICIA YANINA MORA CHÁVEZ",
+      "DIA":"LUN",
+      "HORARIO":"11-12",
+      "SALON":"N-5",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. MARIA TERESA GONZALEZ SANCHEZ",
+      "DIA":"LUN",
+      "HORARIO":"12-15",
+      "SALON":"Ed. “E”Planta alta",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"MSP. PATRICIA YAZMIN FIGUEROA CHÁVEZ",
+      "DIA":"LUN",
+      "HORARIO":"8-10",
+      "SALON":"LAB.I-1",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"7-8",
+      "SALON":"N-4",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-5",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C.  JUDIT ARACELI AVIÑA VERDUZCO",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"I-5",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"I-2",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C.  JUDIT ARACELI AVIÑA VERDUZCO",
+      "DIA":"MIE",
+      "HORARIO":"8-9",
+      "SALON":"I-4",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"MSP. PATRICIA YAZMIN FIGUEROA CHÁVEZ",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"LAB.I-1",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. PATRICIA YANINA MORA CHÁVEZ",
+      "DIA":"JUE",
+      "HORARIO":"7-9",
+      "SALON":"N-3",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"13-14",
+      "SALON":"I-4",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C.  JUDIT ARACELI AVIÑA VERDUZCO",
+      "DIA":"JUE",
+      "HORARIO":"9-11",
+      "SALON":"I-1",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"7-9",
+      "SALON":"K-2",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. CARMEN ADRIANA TENA GUIDO",
+      "DIA":"VIE",
+      "HORARIO":"10-15",
+      "SALON":"LAB. I-4",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"QFB. JOSÉ NOÉ TRUJILLO NÚÑEZ",
+      "DIA":"SAB",
+      "HORARIO":"11-15",
+      "SALON":"N-2",
+      "SECCION":7,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RODRIGO DÍAZ BALCAZAR",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"I-1",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. LESLIE MALLELI BARRIGA TELLEZ",
+      "DIA":"LUN",
+      "HORARIO":"15-20",
+      "SALON":"LAB. I-4",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RODRIGO DÍAZ BALCAZAR",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"I-1",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. LUIS HELIODORO MENDEZ DURAN",
+      "DIA":"MAR",
+      "HORARIO":"17-19",
+      "SALON":"N-4",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"D.C. RAMÓN GUZMÁN MEJÍA",
+      "DIA":"MAR",
+      "HORARIO":"10-11",
+      "SALON":"I-3",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"LAB.I-1",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"N-2",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DRA. MARIA TERESA GONZALEZ SANCHEZ",
+      "DIA":"MIE",
+      "HORARIO":"12-15",
+      "SALON":"Ed. “E”Planta alta",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"QFB. JOSÉ NOÉ TRUJILLO NÚÑEZ",
+      "DIA":"MIE",
+      "HORARIO":"7-11",
+      "SALON":"N-2",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. LUIS HELIODORO MENDEZ DURAN",
+      "DIA":"JUE",
+      "HORARIO":"18-19",
+      "SALON":"I-5",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"D.C. RAMÓN GUZMÁN MEJÍA",
+      "DIA":"JUE",
+      "HORARIO":"11-13",
+      "SALON":"I-6",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"K-2",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"JUE",
+      "HORARIO":"14-16",
+      "SALON":"LAB.I-1",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"10-11",
+      "SALON":"N-2",
+      "SECCION":8,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. LUIS HELIODORO MENDEZ DURAN",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"N-5",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. ANGELICA GARCIA RUIZ DE CHAVEZ",
+      "DIA":"LUN",
+      "HORARIO":"13-15",
+      "SALON":"N-1",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"M.C. LUIS RAUL CHAVEZ GARIBAY",
+      "DIA":"LUN",
+      "HORARIO":"12-13",
+      "SALON":"N-2",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"7-11",
+      "SALON":"N-2",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RODRIGO DIAZ BALCAZAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"K-3",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"M.C. LUIS RAUL CHAVEZ GARIBAY",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"K-3",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. LUIS HELIODORO MENDEZ DURAN",
+      "DIA":"MIE",
+      "HORARIO":"18-19",
+      "SALON":"I-1",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"QFB. ANGELICA GARCIA RUIZ DE CHAVEZ",
+      "DIA":"MIE",
+      "HORARIO":"13-14",
+      "SALON":"N-4",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"M.C. LUIS RAUL CHAVEZ GARIBAY",
+      "DIA":"MIE",
+      "HORARIO":"11-13",
+      "SALON":"K-4",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"LAB. I-1",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RODRIGO DIAZ BALCAZAR",
+      "DIA":"JUE",
+      "HORARIO":"11-13",
+      "SALON":"I-2",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. LESLIE MALLELI BARRIGA TELLEZ",
+      "DIA":"JUE",
+      "HORARIO":"15-20",
+      "SALON":"LAB.I-4",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"VIE",
+      "HORARIO":"15-17",
+      "SALON":"LAB. I-1",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. ALEJANDRO CIZNIEGA",
+      "DIA":"SAB",
+      "HORARIO":"16-19",
+      "SALON":"",
+      "SECCION":9,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RODRIGO DIAZ BALCAZAR",
+      "DIA":"LUN",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-9",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. LUIS HELIODORO MENDEZ DURAN",
+      "DIA":"LUN",
+      "HORARIO":"18-19",
+      "SALON":"N-5",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-9",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-3",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"LAB. I-1",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. RODRIGO DIAZ BALCAZAR",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"N-5",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"7-9",
+      "SALON":"N-5",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"12-13",
+      "SALON":"I-1",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"QFB. YOHANA ARROYO TERÁN",
+      "DIA":"MIE",
+      "HORARIO":"16-20",
+      "SALON":"N-2",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. LUIS HELIODORO MENDEZ DURAN",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"I-5",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"7-8",
+      "SALON":"N-2",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"JUE",
+      "HORARIO":"8-10",
+      "SALON":"LAB.I-1",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. LESLIE MALLELI BARRIGA TELLEZ",
+      "DIA":"VIE",
+      "HORARIO":"15-20",
+      "SALON":"LAB. I-4",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. ALEJANDRO CIZNIEGA",
+      "DIA":"SAB",
+      "HORARIO":"10-13",
+      "SALON":"",
+      "SECCION":10,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"M.Q. JUAN PABLO GARCIA MERINOS",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-2",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"MAR",
+      "HORARIO":"18-20",
+      "SALON":"LAB.I-1",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUAN MANUEL BARAJAS MAGALLON",
+      "DIA":"MIE",
+      "HORARIO":"15-17",
+      "SALON":"K-1",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"11-15",
+      "SALON":"N-2",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUAN MANUEL BARAJAS MAGALLON",
+      "DIA":"JUE",
+      "HORARIO":"15-17",
+      "SALON":"N-3",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"9-11",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"11-12",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"M.Q. JUAN PABLO GARCIA MERINOS",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-3",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"JUE",
+      "HORARIO":"18-20",
+      "SALON":"LAB.I-1",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"10-11",
+      "SALON":"N-5",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"N-5",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"M.Q. JUAN PABLO GARCIA MERINOS",
+      "DIA":"VIE",
+      "HORARIO":"13-14",
+      "SALON":"N-5",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"DR. ALEJANDRO CIZNIEGA",
+      "DIA":"SAB",
+      "HORARIO":"13-16",
+      "SALON":"",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"M.C. KARLA LILIANA GARCIA CHAVEZ",
+      "DIA":"SAB",
+      "HORARIO":"7-12",
+      "SALON":"LAB. I-4",
+      "SECCION":11,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUAN MANUEL BARAJAS MAGALLON",
+      "DIA":"MAR",
+      "HORARIO":"15-17",
+      "SALON":"K-4",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"10-14",
+      "SALON":"N-2",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C. HUGO ALEJANDRO GARCIA GUTIERREZ",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"MIE",
+      "HORARIO":"18-20",
+      "SALON":"LAB. I-1",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"11-12",
+      "SALON":"Anexo-5",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"7-8",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C. HUGO ALEJANDRO GARCIA GUTIERREZ",
+      "DIA":"JUE",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUAN MANUEL BARAJAS MAGALLON",
+      "DIA":"VIE",
+      "HORARIO":"15-17",
+      "SALON":"I-2",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-2",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"ANÁLISIS INSTRUMENTAL",
+      "PROFESOR":"D.C. HUGO ALEJANDRO GARCIA GUTIERREZ",
+      "DIA":"VIE",
+      "HORARIO":"7-9",
+      "SALON":"Anexo-4",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA I",
+      "PROFESOR":"QFB. JUDITH AYALA GARCÍA",
+      "DIA":"VIE",
+      "HORARIO":"17-19",
+      "SALON":"LAB. I-1",
+      "SECCION":12,
+      "SEMESTRE":5
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"QFB.  ROSA ELENA TORRES RUIZ",
+      "DIA":"LUN",
+      "HORARIO":"16-19",
+      "SALON":"N-2",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"LUN",
+      "HORARIO":"8-10",
+      "SALON":"N-1",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. JUAN LOPEZ AÑORVE",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"I-4",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"QFB.  RUTH CALDERÓN VÁZQUEZ",
+      "DIA":"MAR",
+      "HORARIO":"13-15",
+      "SALON":"K-1",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"I-2",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. JUAN LOPEZ AÑORVE",
+      "DIA":"MIE",
+      "HORARIO":"9-11",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"QFB.  RUTH CALDERÓN VÁZQUEZ",
+      "DIA":"MIE",
+      "HORARIO":"13-14",
+      "SALON":"K-4",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA  FARMACÉUTICA I",
+      "PROFESOR":"ING. GABRIEL ENRIQUE CARRILLO PÉREZ",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. JUAN LOPEZ AÑORVE",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA  FARMACÉUTICA I",
+      "PROFESOR":"ING. GABRIEL ENRIQUE CARRILLO PÉREZ",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"I-3",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"M.C.  MARÍA GRICELDA PÉREZ ORDAZ",
+      "DIA":"VIE",
+      "HORARIO":"9-14",
+      "SALON":"Ed. “E”Planta baja",
+      "SECCION":1,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. CARLOS CORTÉS PENAGOS",
+      "DIA":"LUN",
+      "HORARIO":"17-19",
+      "SALON":"I-3",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"D.C. DANIEL GODINEZ HERNÁNDEZ",
+      "DIA":"LUN",
+      "HORARIO":"7-10",
+      "SALON":"I-4",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"D.C. RAFAEL ORTIZ ALVARADO",
+      "DIA":"LUN",
+      "HORARIO":"10-11",
+      "SALON":"I-4",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"D.C. RAFAEL ORTIZ ALVARADO",
+      "DIA":"MAR",
+      "HORARIO":"11-13",
+      "SALON":"I-4",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUIMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"N-1",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"QFB. JOSÉ NOÉ TRUJILLO NÚÑEZ",
+      "DIA":"MIE",
+      "HORARIO":"17-19",
+      "SALON":"K-1",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGIA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"LAB. I-2",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. CARLOS CORTÉS PENAGOS",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"N-4",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"QFB. ELVIRA RAMOS LOPEZ",
+      "DIA":"JUE",
+      "HORARIO":"16-21",
+      "SALON":"Ed. “E”Planta baja",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. CARLOS CORTÉS PENAGOS",
+      "DIA":"VIE",
+      "HORARIO":"8-9",
+      "SALON":"N-5",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"QFB. JOSÉ NOÉ TRUJILLO NÚÑEZ",
+      "DIA":"VIE",
+      "HORARIO":"17-19",
+      "SALON":"I-4",
+      "SECCION":2,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. VÍCTOR MEZA CARMEN",
+      "DIA":"LUN",
+      "HORARIO":"17-20",
+      "SALON":"I-6",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"QFB.  ROSA ELENA TORRES RUIZ",
+      "DIA":"LUN",
+      "HORARIO":"13-16",
+      "SALON":"K-1",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"D.C. JANETT BETSABE GONZÁLEZ CAMPOS",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"I-5",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"I-2",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"M.C. MARÍA GRICELDA PÉREZ ORDAZ",
+      "DIA":"MIE",
+      "HORARIO":"9-14",
+      "SALON":"Ed. “E”Planta baja",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. VÍCTOR MEZA CARMEN",
+      "DIA":"JUE",
+      "HORARIO":"14-16",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"D.C. JANETT BETSABE GONZÁLEZ CAMPOS",
+      "DIA":"JUE",
+      "HORARIO":"7-8",
+      "SALON":"I-5",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"JUE",
+      "HORARIO":"8-10",
+      "SALON":"N-1",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"D.C. ZURISADDAI HERNÁNDEZ GALLEGOS",
+      "DIA":"VIE",
+      "HORARIO":"9-12",
+      "SALON":"K-4",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"D.C. JANETT BETSABE GONZÁLEZ CAMPOS",
+      "DIA":"VIE",
+      "HORARIO":"7-8",
+      "SALON":"I-5",
+      "SECCION":3,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. ALFREDO SAAVEDRA MOLINA",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"N-2",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-16",
+      "SALON":"N-3",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"LUN",
+      "HORARIO":"10-12",
+      "SALON":"N-1",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. ALFREDO SAAVEDRA MOLINA",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"I-6",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"9-11",
+      "SALON":"I-6",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-11",
+      "SALON":"Anexo-2",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"QFB.  ROSA ELENA TORRES RUIZ",
+      "DIA":"MIE",
+      "HORARIO":"16-19",
+      "SALON":"I-5",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"11-13",
+      "SALON":"Anexo-2",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"I-2",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. ALFREDO SAAVEDRA MOLINA",
+      "DIA":"JUE",
+      "HORARIO":"7-8",
+      "SALON":"I-6",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"M.C. MARÍA GRICELDA PÉREZ ORDAZ",
+      "DIA":"JUE",
+      "HORARIO":"8-13",
+      "SALON":"Ed. “E”Planta baja",
+      "SECCION":4,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-17",
+      "SALON":"I-2",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"Q.F.B. NOE TRUJILLO NUÑEZ",
+      "DIA":"LUN",
+      "HORARIO":"17-19",
+      "SALON":"I-2",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"M.C. HECTOR URQUIZA MARIN",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"N-4",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"QFB. ROSA ELENA TORRES RUIZ",
+      "DIA":"MAR",
+      "HORARIO":"13-16",
+      "SALON":"N-4",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"QFB. ELVIRA RAMOS LOPEZ",
+      "DIA":"MAR",
+      "HORARIO":"16-21",
+      "SALON":"Ed. “E” Planta baja",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-10",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"M.C. HECTOR URQUIZA MARIN",
+      "DIA":"MIE",
+      "HORARIO":"8-9",
+      "SALON":"I-3",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"MIE",
+      "HORARIO":"9-11",
+      "SALON":"N-1",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"Q.F.B. NOE TRUJILLO NUÑEZ",
+      "DIA":"JUE",
+      "HORARIO":"17-19",
+      "SALON":"I-4",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"15-17",
+      "SALON":"I-3",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"I-2",
+      "SECCION":5,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"M.C.  MARÍA GRICELDA PÉREZ ORDAZ",
+      "DIA":"LUN",
+      "HORARIO":"9-14",
+      "SALON":"Ed. “E” Planta baja",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"12-13",
+      "SALON":"N-4",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"QFB. ROSA ELENA TORRES RUIZ",
+      "DIA":"MAR",
+      "HORARIO":"16-19",
+      "SALON":"N-1",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"ING. RICARDO MARTÍNEZ MOLINA",
+      "DIA":"MAR",
+      "HORARIO":"7-9",
+      "SALON":"N-1",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"N-1",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"I-2",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"D.C. MARCIA YVETTE GAUTHEREAU TORRES",
+      "DIA":"MIE",
+      "HORARIO":"12-13",
+      "SALON":"I-2",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"D.C. MARCIA YVETTE GAUTHEREAU TORRES",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"I-5",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"ING. RICARDO MARTÍNEZ MOLINA",
+      "DIA":"JUE",
+      "HORARIO":"7-9",
+      "SALON":"N-5",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"K-1",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"VIE",
+      "HORARIO":"10-12",
+      "SALON":"LAB. I-2",
+      "SECCION":6,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"K-1",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"N-1",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. MARTHA ISELA RAMÍREZ DÍAZ",
+      "DIA":"MIE",
+      "HORARIO":"7-9",
+      "SALON":"K-1",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"QFB. ROSA ELENA TORRES RUIZ",
+      "DIA":"MIE",
+      "HORARIO":"13-16",
+      "SALON":"I-4",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"I-2",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"QFB.  ELVIRA RAMOS LOPEZ",
+      "DIA":"MIE",
+      "HORARIO":"16-21",
+      "SALON":"Ed. “E”Planta baja",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. MARTHA ISELA RAMÍREZ DÍAZ",
+      "DIA":"JUE",
+      "HORARIO":"8-10",
+      "SALON":"N-2",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"17-19",
+      "SALON":"I-2",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. MARTHA ISELA RAMÍREZ DÍAZ",
+      "DIA":"VIE",
+      "HORARIO":"10-11",
+      "SALON":"I-3",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"D.C. DANIEL GODINEZ HERNÁNDEZ",
+      "DIA":"VIE",
+      "HORARIO":"7-10",
+      "SALON":"N-2",
+      "SECCION":7,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA ARÉVALO LEÓN",
+      "DIA":"LUN",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-1",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-17",
+      "SALON":"I-4",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"QFB.  JUAN MANUEL BARAJAS MAGALLON",
+      "DIA":"LUN",
+      "HORARIO":"17-20",
+      "SALON":"I-5",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-16",
+      "SALON":"I-4",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA ARÉVALO LEÓN",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"I-4",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"14-16",
+      "SALON":"K-2",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"I-2",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"N-1",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA ARÉVALO LEÓN",
+      "DIA":"VIE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-6",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"13-15",
+      "SALON":"Anexo-4",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"QFB. ELVIRA RAMOS LOPEZ",
+      "DIA":"VIE",
+      "HORARIO":"16-21",
+      "SALON":"Edif. “E”Planta baja",
+      "SECCION":8,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. MARCO AURELIO PARDO GALVÁN",
+      "DIA":"LUN",
+      "HORARIO":"11-13",
+      "SALON":"K-4",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"13-15",
+      "SALON":"K-4",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"QFB. ELVIRA RAMOS LOPEZ",
+      "DIA":"LUN",
+      "HORARIO":"16-21",
+      "SALON":"Edif. “E”Planta baja",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"Q.F.B. JUAN MANUEL BARAJAS MAGALLON",
+      "DIA":"MAR",
+      "HORARIO":"17-20",
+      "SALON":"I-5",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"K-2",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"LAB. I-2",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. MARCO AURELIO PARDO GALVÁN",
+      "DIA":"MIE",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-9",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-9",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"N-1",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"D.C. MARCO AURELIO PARDO GALVÁN",
+      "DIA":"JUE",
+      "HORARIO":"13-14",
+      "SALON":"I-1",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"14-15",
+      "SALON":"I-1",
+      "SECCION":9,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA AREVALO LEON",
+      "DIA":"LUN",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-1",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"D.C. JUAN MANUEL SÁNCHEZ YAÑEZ",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-2",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-2",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"MAR",
+      "HORARIO":"14-16",
+      "SALON":"LAB. I-2",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"M.C.  MARIA GRICELDA PEREZ ORDAZ",
+      "DIA":"MAR",
+      "HORARIO":"7-12",
+      "SALON":"Edif. “E” Planta baja",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"N-1",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA AREVALO LEON",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-6",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"12-13",
+      "SALON":"Anexo-5",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"D.C. JUAN MANUEL SÁNCHEZ YAÑEZ",
+      "DIA":"MIE",
+      "HORARIO":"13-14",
+      "SALON":"Anexo-5",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"Anexo-5",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA AREVALO LEON",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-7",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-1",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"JUE",
+      "HORARIO":"14-16",
+      "SALON":"LAB. I-2",
+      "SECCION":10,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA ARÉVALO LEÓN",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-1",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-2",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"14-16",
+      "SALON":"I-5",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA ARÉVALO LEÓN",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-1",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"11-12",
+      "SALON":"Anexo-2",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"13-15",
+      "SALON":"I-6",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"LAB. I-2",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA ARÉVALO LEÓN",
+      "DIA":"VIE",
+      "HORARIO":"9-10",
+      "SALON":"Anexo-2",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"14-15",
+      "SALON":"N-3",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"15-17",
+      "SALON":"N-3",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"VIE",
+      "HORARIO":"12-14",
+      "SALON":"N-1",
+      "SECCION":11,
+      "SEMESTRE":7
+   },
+   {
+
+      "DIA":"SAB",
+      "HORARIO":"",
+      "SALON":"N-1"
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA AREVALO LEON",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"I-2",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA AREVALO LEON",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"Anexo-6",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"Anexo-1",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"M.C. LUZ ELENA AREVALO LEON",
+      "DIA":"JUE",
+      "HORARIO":"8-9",
+      "SALON":"Anexo-7",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"10-11",
+      "SALON":"N-2",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"13-15",
+      "SALON":"Anexo-8",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"MSP. KARLA GABRIELA DOMÍNGUEZ GONZÁLEZ",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"LAB. I-2",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"16-18",
+      "SALON":"N-2",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"15-16",
+      "SALON":"N-2",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"BIOQUÍMICA II",
+      "PROFESOR":"I.BQ. RODRIGO MERLOS ROJAS",
+      "DIA":"VIE",
+      "HORARIO":"8-10",
+      "SALON":"N-1",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"FARMACIA II",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"SAB",
+      "HORARIO":"12-17",
+      "SALON":"Ed. “E”",
+      "SECCION":12,
+      "SEMESTRE":7
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"D.C. HECTOR EDUARDO MARTINEZ FLORES",
+      "DIA":"LUN",
+      "HORARIO":"10-12",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ENZIMOLOGÍA APLICADA",
+      "PROFESOR":"D.C. CONSUELO DE JESUS CORTES PENAGOS",
+      "DIA":"LUN",
+      "HORARIO":"9-10",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN  ALIMENTOS",
+      "PROFESOR":"D.C. BERENICE YAHUACA JUAREZ",
+      "DIA":"LUN",
+      "HORARIO":"12-14",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ENZIMOLOGÍA APLICADA",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-19",
+      "SALON":"L.A.A.",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"DESARROLLO DE ALIMENTOS",
+      "PROFESOR":"QFB.  GLORIA GUADALUPE RAMIREZ GAONA",
+      "DIA":"MAR",
+      "HORARIO":"8-15",
+      "SALON":"L.T.A",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD ENALIMENTOS",
+      "PROFESOR":"M.C. DIANA CECILIA MAYA CORTES",
+      "DIA":"MAR",
+      "HORARIO":"16-19",
+      "SALON":"L.A.A",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"DESARROLLO DE ALIMENTOS",
+      "PROFESOR":"M.C. MARÍA DEL ROCIO LARA MADRIGAL",
+      "DIA":"MIE",
+      "HORARIO":"12-14",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FERMENTACIONES INDUSTRIALES",
+      "PROFESOR":"M.C. JUAN BOSCO GUZMAN PEREZ",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ENZIMOLOGÍA APLICADA",
+      "PROFESOR":"D.C. CONSUELO DE JESUS CORTES PENAGOS",
+      "DIA":"MIE",
+      "HORARIO":"9-10",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FERMENTACIONES INDUSTRIALES",
+      "PROFESOR":"QFB.  JOSÉ LUIS JAVIER GARCÍA RUIZ",
+      "DIA":"MIE",
+      "HORARIO":"16-20",
+      "SALON":"L.A.A",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"D.C. HECTOR EDUARDO MARTINEZ FLORES",
+      "DIA":"JUE",
+      "HORARIO":"10-11",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FERMENTACIONES INDUSTRIALES",
+      "PROFESOR":"M.C. JUAN BOSCO GUZMAN PEREZ",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN  ALIMENTOS",
+      "PROFESOR":"D.C. BERENICE YAHUACA JUAREZ",
+      "DIA":"JUE",
+      "HORARIO":"11-13",
+      "SALON":"K-2",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD ENALIMENTOS",
+      "PROFESOR":"M.C. DIANA CECILIA MAYA CORTES",
+      "DIA":"JUE",
+      "HORARIO":"16-19",
+      "SALON":"L.A.A",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. DIANA CECILIA MAYA CORTES",
+      "DIA":"VIE",
+      "HORARIO":"9-13",
+      "SALON":"L.A.A",
+      "SECCION":1,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"DESARROLLO DE ALIMENTOS",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-18",
+      "SALON":"N-1",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ENZIMOLOGÍA APLICADA",
+      "PROFESOR":"D.C. CONSUELO DE JESUS CORTES PENAGOS",
+      "DIA":"LUN",
+      "HORARIO":"10-11",
+      "SALON":"K-3",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. ROSA MA. GARCÍA MARTÍNEZ",
+      "DIA":"MAR",
+      "HORARIO":"11-12",
+      "SALON":"I-6",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN  ALIMENTOS",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"15-16",
+      "SALON":"K-1",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ENZIMOLOGÍA APLICADA",
+      "PROFESOR":"D.C. CONSUELO DE JESUS CORTES PENAGOS",
+      "DIA":"MIE",
+      "HORARIO":"10-11",
+      "SALON":"K-3",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN  ALIMENTOS",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"16-18",
+      "SALON":"K-4",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. ROSA MA. GARCÍA MARTÍNEZ",
+      "DIA":"JUE",
+      "HORARIO":"9-11",
+      "SALON":"N-1",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FERMENTACIONES INDUSTRIALES",
+      "PROFESOR":"D.C. RAÚL CORTÉS MARTÍNEZ",
+      "DIA":"JUE",
+      "HORARIO":"12-14",
+      "SALON":"K-3",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN  ALIMENTOS",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"14-15",
+      "SALON":"K-3",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FERMENTACIONES INDUSTRIALES",
+      "PROFESOR":"D.C. RAÚL CORTÉS MARTÍNEZ",
+      "DIA":"VIE",
+      "HORARIO":"14-15",
+      "SALON":"K-3",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"DESARROLLO DE ALIMENTOS",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"7-14",
+      "SALON":"L.T.A.",
+      "SECCION":2,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"QFB. ARMIDA SÁNCHEZ GALLEGOS",
+      "DIA":"LUN",
+      "HORARIO":"18-20",
+      "SALON":"K-2",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"D.C. ASDRUBAL AGUILERA MÉNDEZ",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"K-1",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA FARMACÉUTICA",
+      "PROFESOR":"QFB. RUTH CALDERÓN VÁZQUEZ",
+      "DIA":"LUN",
+      "HORARIO":"11-13",
+      "SALON":"K-1",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA FARMACÉUTICA",
+      "PROFESOR":"M.C. FLORA MARÍA CABRERA MATÍAS",
+      "DIA":"LUN",
+      "HORARIO":"15-18",
+      "SALON":"L.T.F",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"QFB. GUADALUPE DEL CARMEN ROJAS SOLÍS",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"Anexo-1",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"12-15",
+      "SALON":"L.F.",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"QFB. ARMIDA SÁNCHEZ GALLEGOS",
+      "DIA":"MIE",
+      "HORARIO":"11-12",
+      "SALON":"K-1",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"D.C. ASDRUBAL AGUILERA MÉNDEZ",
+      "DIA":"MIE",
+      "HORARIO":"9-11",
+      "SALON":"K-1",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA III",
+      "PROFESOR":"QFB.  ELSA VELÁZQUEZ RAMÍREZ",
+      "DIA":"MIE",
+      "HORARIO":"12-13",
+      "SALON":"K-1",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"QFB. GUADALUPE DEL CARMEN ROJAS SOLÍS",
+      "DIA":"MIE",
+      "HORARIO":"8-9",
+      "SALON":"I-6",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA III",
+      "PROFESOR":"M.C. FLORA MARÍA CABRERA MATÍAS",
+      "DIA":"MIE",
+      "HORARIO":"13-15",
+      "SALON":"L.T.F.",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"QFB. ARMIDA SÁNCHEZ GALLEGOS",
+      "DIA":"JUE",
+      "HORARIO":"18-20",
+      "SALON":"K-2",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA III",
+      "PROFESOR":"QFB.  ELSA VELÁZQUEZ RAMÍREZ",
+      "DIA":"JUE",
+      "HORARIO":"12-13",
+      "SALON":"N-3",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"8-12",
+      "SALON":"L.A.A",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA III",
+      "PROFESOR":"M.C. FLORA MARÍA CABRERA MATÍAS",
+      "DIA":"JUE",
+      "HORARIO":"13-15",
+      "SALON":"L.T.F.",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"QFB.  LILLIAN BRIBIESCA RODRÍGUEZ",
+      "DIA":"VIE",
+      "HORARIO":"8-14",
+      "SALON":"N-2",
+      "SECCION":3,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"D.C. MARTHA ESTRELLA GARCÍA PÉREZ",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"K-4",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA III",
+      "PROFESOR":"M.C. MARÍA ALFA GARCÍA CALDERÓN",
+      "DIA":"LUN",
+      "HORARIO":"11-13",
+      "SALON":"K-3",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"QFB. ALMA ROSA GARCÍA RÍOS",
+      "DIA":"LUN",
+      "HORARIO":"7-9",
+      "SALON":"K-1",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"D.C. MA. CARMEN BARTOLOME CAMACHO",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"K-4",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"8-11",
+      "SALON":"L.F.",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA FARMACÉUTICA",
+      "PROFESOR":"M.C. FLORA MARÍA CABRERA MATÍAS",
+      "DIA":"MAR",
+      "HORARIO":"15-18",
+      "SALON":"L.T.F",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"D.C. MA. CARMEN BARTOLOME CAMACHO",
+      "DIA":"MIE",
+      "HORARIO":"13-14",
+      "SALON":"K-1",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"D.C. MARTHA ESTRELLA GARCÍA PÉREZ",
+      "DIA":"MIE",
+      "HORARIO":"11-13",
+      "SALON":"K-3",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA FARMACÉUTICA",
+      "PROFESOR":"QFB. RUTH CALDERÓN VÁZQUEZ",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"K-4",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA III",
+      "PROFESOR":"M.C. FLORA MARÍA CABRERA MATÍAS",
+      "DIA":"MIE",
+      "HORARIO":"16-20",
+      "SALON":"L.T.F.",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"D.C. MA. CARMEN BARTOLOME CAMACHO",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"K-1",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"QFB.  LILLIAN BRIBIESCA RODRÍGUEZ",
+      "DIA":"JUE",
+      "HORARIO":"8-14",
+      "SALON":"N-2",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"QFB. ALMA ROSA GARCÍA RÍOS",
+      "DIA":"VIE",
+      "HORARIO":"9-10",
+      "SALON":"N-5",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"16-20",
+      "SALON":"L.A.A.",
+      "SECCION":4,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"D.C. VÍCTOR MEZA CARMEN",
+      "DIA":"LUN",
+      "HORARIO":"7-8",
+      "SALON":"N-5",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. ROSA MA. GARCIA MARTINEZ",
+      "DIA":"LUN",
+      "HORARIO":"11-12",
+      "SALON":"N-4",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA FARMACÉUTICA",
+      "PROFESOR":"M.C. FLORA MARÍA CABRERA MATÍAS",
+      "DIA":"LUN",
+      "HORARIO":"12-15",
+      "SALON":"L.T.F",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"D.C. MARTHA ESTRELLA GARCIA PEREZ",
+      "DIA":"MAR",
+      "HORARIO":"15-17",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"D.C. VÍCTOR MEZA CARMEN",
+      "DIA":"MAR",
+      "HORARIO":"13-15",
+      "SALON":"N-3",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"D.C. MARTHA ESTRELLA GARCIA PEREZ",
+      "DIA":"MIE",
+      "HORARIO":"14-16",
+      "SALON":"I-3",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"QFB.  LILLIAN BRIBIESCA RODRÍGUEZ",
+      "DIA":"MIE",
+      "HORARIO":"8-14",
+      "SALON":"N-2",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"CONTROL DE CALIDAD EN MEDICAMENTOS",
+      "PROFESOR":"D.C. VÍCTOR MEZA CARMEN",
+      "DIA":"JUE",
+      "HORARIO":"10-11",
+      "SALON":"I-3",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA III",
+      "PROFESOR":"M.C. FLORA MARÍA CABRERA MATÍAS",
+      "DIA":"JUE",
+      "HORARIO":"16-20",
+      "SALON":"L.T.F.",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"D.C. MARTHA ESTRELLA GARCIA PEREZ",
+      "DIA":"VIE",
+      "HORARIO":"15-16",
+      "SALON":"N-4",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"TECNOLOGÍA FARMACÉUTICA III",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"16-18",
+      "SALON":"N-4",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. ROSA MA. GARCIA MARTINEZ",
+      "DIA":"VIE",
+      "HORARIO":"9-11",
+      "SALON":"K-2",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FISICOQUÍMICA FARMACÉUTICA",
+      "PROFESOR":"QFB. RUTH  CALDERÓN VÁZQUEZ",
+      "DIA":"VIE",
+      "HORARIO":"13-15",
+      "SALON":"K-4",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"FARMACIA IV",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"SAB",
+      "HORARIO":"17-20",
+      "SALON":"Edif. “E”",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"SAB",
+      "HORARIO":"8-12",
+      "SALON":"L.A.A.",
+      "SECCION":5,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"D.C. NORMA ENRIQUETA NAGORE ROBLES",
+      "DIA":"LUN",
+      "HORARIO":"14-18",
+      "SALON":"I-1",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C.  MARÍA DEL ROCÍO LARA MADRIGAL",
+      "DIA":"LUN",
+      "HORARIO":"10-11",
+      "SALON":"I-1",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V (PARASITOLOGÍA)",
+      "PROFESOR":"QFB.  JUDITH ESMERALDA PRIETO SIERRA",
+      "DIA":"LUN",
+      "HORARIO":"11-12",
+      "SALON":"I-1",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"M.C.  MARIA REBECA TINOCO MARTINEZ",
+      "DIA":"LUN",
+      "HORARIO":"8-10",
+      "SALON":"I-1",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C.  MARÍA DEL ROCÍO LARA MADRIGAL",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"I-1",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V (PARASITOLOGÍA)",
+      "PROFESOR":"QFB.  JUDITH ESMERALDA PRIETO SIERRA",
+      "DIA":"MAR",
+      "HORARIO":"10-12",
+      "SALON":"I-1",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V (PARASITOLOGÍA)",
+      "PROFESOR":"QFB.  JORGE HORACIO CERDA MARTINEZ",
+      "DIA":"MAR",
+      "HORARIO":"15-18",
+      "SALON":"“E”PLANTA ALTA",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. DIANA CECILIA MAYA CORTES",
+      "DIA":"MIE",
+      "HORARIO":"9-13",
+      "SALON":"L.A.A",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"17-20",
+      "SALON":"N-1",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"M.C.  MARIA REBECA TINOCO MARTINEZ",
+      "DIA":"VIE",
+      "HORARIO":"8-10",
+      "SALON":"I-4",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"M.F.B. SARA ELIET URRUTIA HERNÁNDEZ",
+      "DIA":"VIE",
+      "HORARIO":"15-18",
+      "SALON":"“E”PLANTA ALTA",
+      "SECCION":6,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"9-13",
+      "SALON":"L.A.A.",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"D.C. NORMA ENRIQUETA NAGORE ROBLES",
+      "DIA":"MAR",
+      "HORARIO":"14-18",
+      "SALON":"I-1",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. MARÍA DEL ROCIO LARA MADRIGAL",
+      "DIA":"MAR",
+      "HORARIO":"10-11",
+      "SALON":"I-211-12K-212-13K-1",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"M.C. MARIA REBECA TINOCO MARTÍNEZ",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"I-3",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V(PARASITOLOGÍA)",
+      "PROFESOR":"QFB.  MARTHA JOSEFINA DE LOS DOLORES TORRES",
+      "DIA":"MIE",
+      "HORARIO":"10-12",
+      "SALON":"I-1",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"M.C. MARIA REBECA TINOCO MARTÍNEZ",
+      "DIA":"MIE",
+      "HORARIO":"8-10",
+      "SALON":"I-5",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V(PARASITOLOGÍA)",
+      "PROFESOR":"QFB.  MARTHA JOSEFINA DE LOS DOLORES TORRES",
+      "DIA":"JUE",
+      "HORARIO":"11-12",
+      "SALON":"I-1",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"18-21",
+      "SALON":"N-1",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V (PARASITOLOGÍA)",
+      "PROFESOR":"QFB. JORGE HORACIO CERDA MARTINEZ",
+      "DIA":"JUE",
+      "HORARIO":"8-11",
+      "SALON":"“E”PLANTA ALTA",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"M.F.B. SARA ELIET URRUTIA HERNÁNDEZ",
+      "DIA":"JUE",
+      "HORARIO":"15-18",
+      "SALON":"“E” PLANTA ALTA",
+      "SECCION":7,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. NICOLÁS ZAMUDIO HERNÁNDEZ",
+      "DIA":"LUN",
+      "HORARIO":"8-9",
+      "SALON":"I-2",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"M.F.B. SARA ELIET URRUTIA HERNÁNDEZ",
+      "DIA":"LUN",
+      "HORARIO":"18-21",
+      "SALON":"“E” PLANTA ALTA",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANÁLISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. DIANA CECILIA MAYA CORTES",
+      "DIA":"MAR",
+      "HORARIO":"9-13",
+      "SALON":"L.A.A.",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"17-20",
+      "SALON":"N-1",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"D.C. NORMA ENRIQUETA NAGORE ROBLES",
+      "DIA":"MIE",
+      "HORARIO":"14-18",
+      "SALON":"I-1",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. NICOLÁS ZAMUDIO HERNÁNDEZ",
+      "DIA":"MIE",
+      "HORARIO":"8-9",
+      "SALON":"I-2",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"M.C. MARIA REBECA TINOCO MARTÍNEZ",
+      "DIA":"MIE",
+      "HORARIO":"7-8",
+      "SALON":"I-5",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V(PARASITOLOGÍA)",
+      "PROFESOR":"QFB. JUDITH ESMERALDA PRIETO SIERRA",
+      "DIA":"JUE",
+      "HORARIO":"10-11",
+      "SALON":"I-4",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"M.C. MARIA REBECA TINOCO MARTÍNEZ",
+      "DIA":"JUE",
+      "HORARIO":"8-10",
+      "SALON":"I-4",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V (PARASITOLOGÍA)",
+      "PROFESOR":"QFB. JORGE HORACIO CERDA MARTINEZ",
+      "DIA":"JUE",
+      "HORARIO":"18-21",
+      "SALON":"“E” PLANTA ALTA",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. NICOLÁS ZAMUDIO HERNÁNDEZ",
+      "DIA":"VIE",
+      "HORARIO":"8-9",
+      "SALON":"I-2",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V(PARASITOLOGÍA)",
+      "PROFESOR":"QFB. JUDITH ESMERALDA PRIETO SIERRA",
+      "DIA":"VIE",
+      "HORARIO":"9-11",
+      "SALON":"K-1",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"M.C. MARIA REBECA TINOCO MARTÍNEZ",
+      "DIA":"VIE",
+      "HORARIO":"7-8",
+      "SALON":"I-4",
+      "SECCION":8,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C.NICOLAS ZAMUDIO HERNANDEZ",
+      "DIA":"LUN",
+      "HORARIO":"9-10",
+      "SALON":"I-2",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"16-19",
+      "SALON":"N-1",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V(PARASITOLOGÍA)",
+      "PROFESOR":"QFB.  JUDITH ESMERALDA PRIETO SIERRA",
+      "DIA":"MAR",
+      "HORARIO":"12-14",
+      "SALON":"K-2",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MAR",
+      "HORARIO":"16-18",
+      "SALON":"I-2",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V (PARASITOLOGÍA)",
+      "PROFESOR":"QFB. JORGE HORACIO CERDA MARTINEZ",
+      "DIA":"MAR",
+      "HORARIO":"18-21",
+      "SALON":"“E” PLANTA ALTA",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"MIE",
+      "HORARIO":"17-19",
+      "SALON":"I-2",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"16-18",
+      "SALON":"I-1",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C.NICOLAS ZAMUDIO HERNANDEZ",
+      "DIA":"JUE",
+      "HORARIO":"9-10",
+      "SALON":"I-2",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V(PARASITOLOGÍA)",
+      "PROFESOR":"QFB.  JUDITH ESMERALDA PRIETO SIERRA",
+      "DIA":"JUE",
+      "HORARIO":"11-12",
+      "SALON":"I-4",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"16-18",
+      "SALON":"I-1",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C.NICOLAS ZAMUDIO HERNANDEZ",
+      "DIA":"VIE",
+      "HORARIO":"9-10",
+      "SALON":"I-2",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"M.F.B. SARA ELIET URRUTIA HERNÁNDEZ",
+      "DIA":"VIE",
+      "HORARIO":"18-21",
+      "SALON":"“E” PLANTA ALTA",
+      "SECCION":9,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"QFB. JUDITH ESMERALDA PRIETO SIERRA",
+      "DIA":"LUN",
+      "HORARIO":"9-11",
+      "SALON":"I-6",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V(PARASITOLOGÍA)",
+      "PROFESOR":"D.C. ULISES HUERTA SILVA",
+      "DIA":"LUN",
+      "HORARIO":"13-14",
+      "SALON":"N-3",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"LUN",
+      "HORARIO":"18-20",
+      "SALON":"I-1",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"M.F.B. SARA ELIET URRUTIA HERNÁNDEZ",
+      "DIA":"LUN",
+      "HORARIO":"15-18",
+      "SALON":"“E” PLANTA ALTA",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. NICOLÁS ZAMUDIO HERNÁNDEZ",
+      "DIA":"MAR",
+      "HORARIO":"8-10",
+      "SALON":"N-5",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"BIOLOGÍA IV(HEMATOLOGÍA)",
+      "PROFESOR":"QFB. JUDITH ESMERALDA PRIETO SIERRA",
+      "DIA":"MIE",
+      "HORARIO":"11-13",
+      "SALON":"I-4",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V (PARASITOLOGÍA)",
+      "PROFESOR":"QFB. JORGE HORACIO CERDA MARTINEZ",
+      "DIA":"MIE",
+      "HORARIO":"18-21",
+      "SALON":"“E” PLANTA ALTA",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"ANALISIS DE ALIMENTOS I",
+      "PROFESOR":"M.C. NICOLÁS ZAMUDIO HERNÁNDEZ",
+      "DIA":"JUE",
+      "HORARIO":"8-9",
+      "SALON":"K-1",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"JUE",
+      "HORARIO":"18-20",
+      "SALON":"I-1",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"MICROBIOLOGÍA V(PARASITOLOGÍA)",
+      "PROFESOR":"D.C. ULISES HUERTA SILVA",
+      "DIA":"VIE",
+      "HORARIO":"9-11",
+      "SALON":"N-4",
+      "SECCION":10,
+      "SEMESTRE":9
+   },
+   {
+
+      "MATERIA":"INMUNOLOGÍA I",
+      "PROFESOR":"POR CONFIRMAR",
+      "DIA":"VIE",
+      "HORARIO":"17-20",
+      "SALON":"N-1",
+      "SECCION":10,
+      "SEMESTRE":9
+   }
+]
